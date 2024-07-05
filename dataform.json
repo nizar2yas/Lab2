@@ -1,7 +1,7 @@
 {
     "defaultDatabase":"formation-dataform",
-    "defaultSchema": "lab1",
-    "assertionSchema": "lab1_assertions",
+    "defaultSchema": "lab2",
+    "assertionSchema": "lab2_assertions",
     "warehouse": "bigquery",
     "defaultLocation": "europe-west1"
 }

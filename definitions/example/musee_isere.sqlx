@@ -1,0 +1,10 @@
+config {
+    type: "table"
+}
+
+SELECT
+  *
+FROM
+  ${ref("list_musees")}
+WHERE
+  departement="Isère"
