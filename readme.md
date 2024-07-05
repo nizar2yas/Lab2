@@ -30,4 +30,12 @@ Les objectifs du lab sont :
    1. télécharger le fichier `products.csv`.
    2. créez une bucket gcs
    3. mettre le fichier `products.csv`.dans le bucket
-   4. loader le fichier depuis le bucket 
+   4. loader le fichier depuis le bucket en utilisant le schema suivant 
+      * product_id: STRING,
+      * product_name: STRING,
+      * description: STRING,
+      * price: STRING,
+      * category: STRING,
+      * supplier_id: STRING,
+      * created_at: STRING,
+      * updated_at: STRING
