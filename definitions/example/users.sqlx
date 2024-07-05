@@ -1,5 +1,14 @@
 config {
     type: "declaration",
     database: "formation-dataform",
-    schema: "presentation_lab2"
+    schema: "presentation_lab2",
+    description: "Users table",
+    columns: {
+        id: "user's identifier",
+        first_name: "user's first name",
+        last_name: "user's last name",
+        email: "user's email",
+        gender: "user's gender",
+        birth_date: "user's birth date"
+    }
 }

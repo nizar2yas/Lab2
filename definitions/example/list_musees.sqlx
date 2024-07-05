@@ -1,8 +1,25 @@
 config {
     type: "operations",
     hasOutput: true,
-    schema: "presentation_lab2"
+    schema: "presentation_lab2",
+    description: "museum list",
+    columns: {
+        identifiant_musee: "museum identifier",
+        region_administrative: "museum administrative region",
+        departement: "museum department",
+        commune: "museum municipality",
+        nom_officiel_du_musee: "museum officiel name",
+        adresse: "museum address",
+        lieu: "museum location",
+        code_postal: "postal addresse", 
+        telephone: "phone number",
+        url: "web site url",
+        latitude: "location latitude",
+        longitude: "location longitude",
+        ref_deps:"reference deps" 
+    }
 }
+-- partitionExpirationDays: 14,
 
 LOAD data overwrite ${self()} (
 identifiant_musee	STRING,

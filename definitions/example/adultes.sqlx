@@ -1,5 +1,23 @@
 config {
-    type: "table"
+    type: "table",
+    description: "Adultes users table",
+    columns: {
+        id: "user's identifier",
+        first_name: "user's first name",
+        last_name: "user's last name",
+        email: "user's email",
+        gender: "user's gender",
+        birth_date: "user's birth date"
+    },
+    tags:["STAGING"],
+    bigquery :{
+        labels:{
+            "type":"staging"
+        },
+        partitionBy: "birth_date",
+        requirePartitionFilter : true,
+        clusterBy: ["gender"]
+    }
 }
 
 SELECT
@@ -8,5 +26,3 @@ FROM
   ${ref("users")}
 WHERE
   DATE_DIFF(CURRENT_DATE(),birth_Date,YEAR)>=18
-ORDER BY
-  id
