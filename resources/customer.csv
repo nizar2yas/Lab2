@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,phone_number,address,city,state,postal_code,country,created_at,updated_at
+1,Essa,Nancarrow,enancarrow0@goodreads.com,670-790-9344,Apt 1802,Alençon,Basse-Normandie,61004 CEDEX,France,2024-02-07,
+2,Murray,Snowman,msnowman1@gizmodo.com,,,Caen,Basse-Normandie,14097 CEDEX 9,France,2023-07-10,188355
+3,Jobie,Gosling,jgosling2@sciencedirect.com,360-824-1644,Room 1679,,Bretagne,35047 CEDEX 9,France,2023-06-15,
+4,Luce,Prier,lprier3@theatlantic.com,579-416-1015,6th Floor,,Languedoc-Roussillon,34087 CEDEX 4,France,2023-02-12,
+5,Tyrus,Hazelby,thazelby4@nps.gov,819-109-4156,Apt 527,Grenoble,Rhône-Alpes,38035 CEDEX 2,France,2024-01-19,2509
+6,Raimund,Jelfs,rjelfs5@newyorker.com,683-934-8746,Room 1721,Châtillon,Île-de-France,92324 CEDEX,France,2024-04-14,
+7,Netty,Janczewski,njanczewski6@harvard.edu,,3rd Floor,Marmande,,47211 CEDEX,France,2023-09-06,5101
+8,Bartholemy,Driscoll,bdriscoll7@delicious.com,614-902-5203,Room 119,La Garenne-Colombes,Île-de-France,92959 CEDEX,France,2023-06-23,
+9,Gilburt,Sahlstrom,gsahlstrom8@dion.ne.jp,,Suite 93,Lagny-sur-Marne,Île-de-France,77404 CEDEX,France,2023-02-16,76804 CEDEX
+10,Ardyth,Pepper,apepper9@theatlantic.com,188-327-4424,,,Picardie,80146 CEDEX,France,2023-10-08,
+11,Harlin,Blackie,hblackiea@princeton.edu,860-394-4621,9th Floor,Guilherand-Granges,Rhône-Alpes,07509 CEDEX,France,2023-07-17,
+12,Brennen,Maddaford,bmaddafordb@about.me,219-832-9865,12th Floor,Meaux,Île-de-France,77104 CEDEX,France,2023-03-16,671 07
+13,Dina,Coppenhall,dcoppenhallc@cisco.com,824-150-4859,Suite 18,Orléans,Centre,45016 CEDEX 1,France,2024-05-29,49490-000
+14,Lucho,Bosomworth,lbosomworthd@timesonline.co.uk,482-871-2410,Suite 85,Angers,Pays de la Loire,49033 CEDEX 01,France,2023-01-27,
+15,Kerrie,Sinclair,ksinclaire@abc.net.au,292-230-2987,Apt 1350,Le Mans,Pays de la Loire,72052 CEDEX 2,France,2023-08-07,18560-000
+16,Brett,Blose,bblosef@sciencedirect.com,,Room 1531,Sarreguemines,Lorraine,57204 CEDEX,France,2023-02-17,
+17,Mischa,Spirit,mspiritg@hubpages.com,,Suite 76,Nîmes,Languedoc-Roussillon,30034 CEDEX 1,France,2023-12-20,42-244
+18,Denney,Bracegirdle,,200-654-2698,3rd Floor,Antony,Île-de-France,92169 CEDEX,France,2023-02-12,
+19,Hi,Goldney,hgoldneyi@hexun.com,381-634-9527,3rd Floor,Marseille,Provence-Alpes-Côte d'Azur,13937 CEDEX 20,France,2023-08-03,986-0303
+20,Udall,Nudd,unuddj@webmd.com,738-160-8433,Suite 64,Levallois-Perret,Île-de-France,,France,2023-06-16,
+21,Lenna,Dobbinson,ldobbinsonk@samsung.com,495-168-3221,Room 819,Cernay,Alsace,68704 CEDEX,France,2023-04-08,
+22,Constancia,Keune,ckeunel@deviantart.com,128-110-7905,,Puolanka,,89201,Finland,2023-09-15,
+23,Genni,MacAne,gmacanem@zdnet.com,325-399-9365,Room 1006,Imatra,,55910,Finland,2023-10-31,
+24,Christoph,Sedge,csedgen@wikimedia.org,157-522-4445,Suite 54,Le Mans,Pays de la Loire,72100,France,2023-06-06,
+25,Lewie,Lordon,llordono@wordpress.org,,6th Floor,Niort,,79042 CEDEX 9,France,2023-07-14,668134
+26,Erica,Durdan,,,Suite 3,Vallauris,Provence-Alpes-Côte d'Azur,06224 CEDEX,France,2023-12-15,
+27,Binnie,MacConnechie,bmacconnechieq@loc.gov,149-832-5377,PO Box 9714,Carcassonne,Languedoc-Roussillon,11020 CEDEX,France,2024-02-01,
+28,Dorita,Donnell,ddonnellr@delicious.com,159-251-3458,Room 1284,,Picardie,60804 CEDEX,France,2024-06-14,
+29,Marcel,St. Hill,msthills@cyberchimps.com,919-240-7970,Apt 890,Bonneville,Rhône-Alpes,74134 CEDEX,France,2024-02-26,43-196
+30,Fancie,Tanner,ftannert@go.com,284-920-0650,Room 766,Chantilly,Picardie,60647 CEDEX,France,2024-04-08,49246
+31,Mareah,Carvil,mcarvilu@va.gov,679-522-0909,Suite 62,Toulon,Provence-Alpes-Côte d'Azur,83040 CEDEX 9,France,2023-02-13,
+32,Leann,Alforde,lalfordev@usnews.com,553-663-2349,Apt 227,Maisons-Alfort,Île-de-France,94704 CEDEX,France,2024-03-25,439 82
+33,Mehetabel,Wintersgill,mwintersgillw@fastcompany.com,530-871-5277,Suite 6,,Rhône-Alpes,26204 CEDEX,France,2023-07-12,422549
+34,Hewie,Gemlbett,hgemlbettx@i2i.jp,721-988-8639,Suite 15,Bourg-en-Bresse,Rhône-Alpes,01004 CEDEX,France,2023-04-26,216420
+35,Tammara,Mines,tminesy@msn.com,986-869-8594,Apt 1288,Kirkkonummi,,02480,Finland,2023-08-23,31410
+36,Ram,Dannett,rdannettz@taobao.com,491-488-8650,Room 1045,Vélizy-Villacoublay,Île-de-France,78942 CEDEX,France,2024-04-07,
+37,Karyn,Brookzie,kbrookzie10@edublogs.org,953-334-7697,Room 1938,Schirmeck,,67137 CEDEX,France,2023-02-07,7201
+38,Donnie,Poltun,dpoltun11@fastcompany.com,751-576-0948,17th Floor,Saint-Leu-la-Forêt,Île-de-France,95324 CEDEX,France,2024-04-14,
+39,Melissa,Kinton,mkinton12@nsw.gov.au,473-214-4093,Apt 1969,Arras,Nord-Pas-de-Calais,62036 CEDEX,France,2024-04-05,89135
+40,Benjamin,Paula,bpaula13@people.com.cn,526-749-6049,Apt 1302,,Île-de-France,75235 CEDEX 05,France,2024-05-21,514 42
+41,Gonzales,Grealy,ggrealy14@cbsnews.com,638-423-9225,,Brest,Bretagne,29825 CEDEX 9,France,2024-04-16,
+42,Vasili,Muffin,vmuffin15@ucsd.edu,974-222-5468,Apt 1589,Béthune,Nord-Pas-de-Calais,62404 CEDEX,France,2023-06-20,30807
+43,Hanan,Lerway,hlerway16@latimes.com,524-542-0163,Suite 24,,Alsace,67165 CEDEX,France,2024-03-29,
+44,Lucina,Rootes,,519-978-8196,Room 596,Montpellier,Languedoc-Roussillon,34080,France,2023-03-02,
+45,Giulia,Saunderson,gsaunderson18@hubpages.com,273-110-1490,4th Floor,,Bretagne,29327 CEDEX,France,2024-04-19,
+46,Joanie,Longhorn,jlonghorn19@tinypic.com,375-765-1834,,Bordeaux,Aquitaine,33100,France,2023-07-02,44320
+47,Darya,Mac,dmac1a@purevolume.com,967-623-2541,13th Floor,Nice,Provence-Alpes-Côte d'Azur,06306 CEDEX 4,France,2024-02-22,
+48,Randolf,Karet,rkaret1b@deviantart.com,843-228-7194,PO Box 42153,Bordeaux,Aquitaine,33070 CEDEX,France,2023-08-20,
+49,Parrnell,Gamett,pgamett1c@wisc.edu,,19th Floor,Nancy,Lorraine,54939 CEDEX 9,France,2024-04-11,
+50,Anatollo,Czajka,aczajka1d@seattletimes.com,702-591-8942,PO Box 35732,,Midi-Pyrénées,65951 CEDEX 9,France,2023-01-17,B2J
+51,Lindsey,Sales,lsales1e@gizmodo.com,115-850-5995,10th Floor,Challans,,85304 CEDEX,France,2023-04-08,
+52,Tiffy,Miko,tmiko1f@google.it,183-701-5247,,Nantes,Pays de la Loire,44019 CEDEX 1,France,2023-12-31,
+53,Mommy,Rubinowicz,mrubinowicz1g@va.gov,775-759-2577,Apt 1410,Tassin-la-Demi-Lune,Rhône-Alpes,69814 CEDEX,France,2023-03-05,2914
+54,Hayley,Braybrooke,hbraybrooke1h@mysql.com,265-528-2221,PO Box 29239,Élancourt,Île-de-France,78990,France,2024-02-11,M5G
+55,Shurlock,Juste,sjuste1i@washington.edu,501-953-3800,PO Box 72570,Manosque,Provence-Alpes-Côte d'Azur,04104 CEDEX,France,2023-11-02,
+56,Janaya,Pecey,,393-901-2881,Suite 33,Avignon,,84072 CEDEX 4,France,2023-05-11,
+57,Rubina,Emblen,remblen1k@friendfeed.com,324-931-5461,Suite 45,Lyon,Rhône-Alpes,69239 CEDEX 02,France,2024-05-27,
+58,Doralynn,Rizzardini,drizzardini1l@wufoo.com,487-986-6858,PO Box 32794,Wasquehal,Nord-Pas-de-Calais,59449 CEDEX,France,2024-01-27,572 27
+59,Fred,Capps,fcapps1m@163.com,685-231-3369,5th Floor,Bordeaux,Aquitaine,33733 CEDEX 9,France,2024-01-11,
+60,Arlana,Garrud,agarrud1n@zimbio.com,898-793-7437,Apt 798,Pouzauges,Pays de la Loire,85708 CEDEX,France,2024-06-13,682 24
+61,Courtenay,Stones,cstones1o@foxnews.com,966-936-7411,15th Floor,Nanterre,,92885 CEDEX 9,France,2024-04-29,
+62,Terrel,Broomfield,,417-835-3600,Apt 1410,Digne-les-Bains,Provence-Alpes-Côte d'Azur,04016 CEDEX,France,2023-12-10,
+63,Giselle,Till,gtill1q@fastcompany.com,816-343-5050,,,Franche-Comté,39004 CEDEX,France,2023-08-25,31931 CEDEX 9
+64,Aldridge,Patchett,apatchett1r@vinaora.com,,Apt 738,Kauhava,,62201,Finland,2024-03-14,
+65,Nalani,Sabathier,nsabathier1s@techcrunch.com,430-202-5804,Suite 24,Sulkava,,58701,Finland,2023-04-18,687047
+66,Lorry,Leas,,511-147-0929,13th Floor,,,88300,Finland,2023-11-28,38950-000
+67,Ingrim,Simkiss,isimkiss1u@flickr.com,911-458-5404,PO Box 14312,Saint-Flour,Auvergne,15104 CEDEX,France,2023-07-04,
+68,Atalanta,Tomlin,atomlin1v@ustream.tv,279-336-7776,Apt 698,,Rhône-Alpes,69303 CEDEX 07,France,2023-07-26,216210
+69,Sibley,Daintry,sdaintry1w@linkedin.com,632-229-1821,Room 742,Ancenis,Pays de la Loire,44159 CEDEX,France,2023-06-14,9209
+70,Wynny,Lorenz,wlorenz1x@bluehost.com,921-960-1955,13th Floor,Limoges,Limousin,87066 CEDEX 2,France,2024-06-02,60200
+71,Pincas,Mussotti,pmussotti1y@histats.com,581-608-1292,17th Floor,,Rhône-Alpes,38035 CEDEX 2,France,2023-06-03,357239
+72,Grace,Eastbrook,geastbrook1z@theglobeandmail.com,317-931-3440,PO Box 1588,Amiens,,80891 CEDEX 3,France,2024-06-05,340
+73,Gaby,Sugar,gsugar20@technorati.com,191-645-1517,PO Box 24809,Auxerre,Bourgogne,89024 CEDEX,France,2023-09-22,0900
+74,Ddene,Jirieck,djirieck21@mayoclinic.com,508-956-7381,13th Floor,Aubagne,,13681 CEDEX,France,2023-02-03,
+75,Coop,Farris,cfarris22@bloomberg.com,697-434-5199,Apt 310,Pau,,64058 CEDEX 9,France,2023-05-25,
+76,Erik,MacMeeking,emacmeeking23@salon.com,577-738-0505,PO Box 5621,Kylmäkoski,,37960,Finland,2023-04-17,
+77,Gerald,Knee,gknee24@cpanel.net,415-253-4295,Room 269,,,,Finland,2024-04-20,
+78,Dalton,Purver,dpurver25@wisc.edu,906-232-1872,Room 181,Vaulx-en-Velin,Rhône-Alpes,69519 CEDEX,France,2023-02-13,45426
+79,Marcie,Godber,mgodber26@biglobe.ne.jp,,Room 897,Avignon,Provence-Alpes-Côte d'Azur,84033 CEDEX 3,France,2024-02-14,
+80,Dyana,Lars,,659-185-9918,Room 1706,Karvia,,39930,Finland,2023-12-27,29560-000
+81,Carlie,Brizell,cbrizell28@webs.com,239-794-9626,Room 1748,Marcq-en-Barœul,Nord-Pas-de-Calais,59704 CEDEX,France,2023-12-31,5223
+82,Nevin,Mc Trusty,nmctrusty29@paypal.com,526-164-6386,PO Box 53738,Rouen,Haute-Normandie,76040 CEDEX,France,2024-01-07,
+83,Janaya,Toomer,jtoomer2a@earthlink.net,193-515-1955,Apt 1849,Portet-sur-Garonne,Midi-Pyrénées,31124 CEDEX,France,2023-04-17,
+84,Netti,Glaisner,nglaisner2b@qq.com,996-825-9145,PO Box 12855,Fresnes,Île-de-France,,France,2023-06-28,
+85,Devland,Rustedge,drustedge2c@comsenz.com,,PO Box 88724,Niort,Poitou-Charentes,,France,2023-11-02,172460
+86,Mariette,Daughtrey,,197-836-1800,Suite 37,Asnières-sur-Seine,Île-de-France,92665 CEDEX,France,2023-09-01,
+87,Brynne,Ould,bould2e@state.gov,566-830-5831,,Vesoul,Franche-Comté,70030 CEDEX,France,2023-12-01,9670
+88,Hadlee,Duffil,hduffil2f@usa.gov,799-713-7760,Suite 53,Massy,Île-de-France,91304 CEDEX,France,2023-01-04,
+89,Lek,Eddow,leddow2g@wordpress.org,870-115-8678,20th Floor,Niort,Poitou-Charentes,79031 CEDEX 9,France,2024-02-12,1814
+90,Rochester,Sawl,rsawl2h@omniture.com,381-164-7534,Apt 951,Arpajon,Île-de-France,91295 CEDEX,France,2023-06-13,
+91,Dorelia,Coger,dcoger2i@guardian.co.uk,658-772-3800,Room 805,Strasbourg,Alsace,67953 CEDEX 9,France,2023-12-11,4760-490
+92,Cele,Scalera,,475-870-2605,Suite 7,Guyancourt,Île-de-France,78280,France,2024-05-07,20546
+93,Stesha,Austing,sausting2k@yolasite.com,978-801-7061,PO Box 60653,Punkalaidun,,31901,Finland,2024-06-22,4280
+94,Joye,Bizzey,jbizzey2l@nih.gov,295-721-1920,Room 1784,,Île-de-France,91129 CEDEX,France,2023-05-16,
+95,Lucy,Riley,lriley2m@skype.com,752-835-5982,19th Floor,Melun,Île-de-France,77004 CEDEX,France,2023-11-01,295 01
+96,Zollie,Storcke,zstorcke2n@ft.com,104-409-4387,Suite 43,Kingersheim,Alsace,68264 CEDEX,France,2023-04-30,
+97,Gerianna,Edling,gedling2o@is.gd,115-696-3021,Suite 19,Cergy-Pontoise,Île-de-France,95897 CEDEX,France,2023-02-15,
+98,Roda,Suatt,rsuatt2p@vkontakte.ru,,,Troyes,Champagne-Ardenne,10081 CEDEX,France,2023-03-27,
+99,Adelbert,Tassell,atassell2q@linkedin.com,882-584-1566,Suite 87,Nantes,Pays de la Loire,44004 CEDEX 1,France,2023-03-11,8424
+100,Sharlene,Bradneck,,946-359-1395,Room 215,Saint-Ouen,Île-de-France,93584 CEDEX,France,2023-04-07,6100-253
