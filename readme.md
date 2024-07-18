@@ -4,6 +4,7 @@ L'objectif de ce lab est de définir les sources que nous allons utiliser dans n
 * **Transactions** : des données qu'une autre équipe ou un partenaire nous a partagées (la table transactions).
 * **Customers** : une table alimentée par un flux dans notre dataplateform (la table customers).
 * **Products** : une table que nous allons charger depuis un stockage (la table products).
+* **Address** : une table que nous allons charger depuis un stockage (la table address).
 
 Les objectifs du lab sont :
 
@@ -13,29 +14,12 @@ Les objectifs du lab sont :
    1. dans bigquery créer une dataset, par exemple lab2
    2. dans la dataset lab2 créer une table
    3. choisir `upload` et récupérer le fichier depuis le local
-   4. utilisez le schema suivant :  
-      * customer_id: STRING, 
-      * first_name: STRING, 
-      * last_name: STRING, 
-      * email: STRING, 
-      * phone_number: STRING, 
-      * address: STRING, 
-      * city: STRING, 
-      * state: STRING, 
-      * postal_code: STRING, 
-      * country: STRING, 
-      * created_at: STRING, 
-      * updated_at: STRING
 3. **Créer la table products** : charger les données depuis le fichier products.csv.
    1. télécharger le fichier `products.csv`.
    2. créez une bucket gcs
    3. mettre le fichier `products.csv`.dans le bucket
-   4. loader le fichier depuis le bucket en utilisant le schema suivant 
-      * product_id: STRING,
-      * product_name: STRING,
-      * description: STRING,
-      * price: STRING,
-      * category: STRING,
-      * supplier_id: STRING,
-      * created_at: STRING,
-      * updated_at: STRING
+   4. créer la table `products`depuis le fichier `products.csv` en utilisant une `operation` dataform
+4. **Créer la table address** : charger les données depuis le fichier address.csv.
+   1. télécharger le fichier `address.csv`.
+   2. ajouter le fichier dans le bucket déjà créé
+   3. créer la table `address`depuis le fichier `address.csv` en utilisant une `operation` dataform
