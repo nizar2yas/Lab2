@@ -1,0 +1,1001 @@
+product_id,product_name,description,price,category,supplier_id,created_at,updated_at
+1,Coffee Decaf Colombian,Other specified injury of left vertebral artery,"€862,70",Food & Drink,1,2024-01-17,2023-01-10
+2,Loquat,"Unsp fracture of sternum, subs for fx w routn heal","€159,46",aaaa,2,2023-05-15,2023-09-16
+3,Skewers - Bamboo,"Nondisp spiral fx shaft of rad, r arm, 7thH",,Food & Drink,3,2023-05-11,2024-04-07
+4,Sobe - Cranberry Grapefruit,"Dislocation of carpometacarpal joint of right thumb, init","€347,16",Food & Drink,4,2023-11-29,2024-06-23
+5,Sugar - White Packet,"Unsp inj blood vessels at ank/ft level, left leg, sequela","€260,92",aaaa,5,2023-01-07,2023-08-31
+6,"Beets - Candy Cane, Organic",Lateral subluxation and dislocation of proximal end of tibia,"€468,19",Food & Drink,6,2023-01-24,2023-11-22
+7,Longos - Chicken Curried,"Struck by other hit or thrown ball, initial encounter","€620,06",Beauty & Fitness,7,2023-04-20,2024-01-24
+8,Pear - Prickly,"Episcleritis periodica fugax, right eye","€344,65",vvvv,8,2023-05-21,2023-05-13
+9,Pepper - Orange,Cicatricial entropion of eyelid,"€561,81",Arts & Entertainment,9,2023-12-14,2023-05-10
+10,Sauce - Cranberry,Scarring of conjunctiva,"€708,41",aaaa,10,2023-08-15,2023-09-07
+11,"Brownies - Two Bite, Chocolate","Pnctr w/o fb of abd wall, epigst rgn w penet perit cav, subs","€150,80",Gifts & Special Events,11,2024-02-10,2024-04-07
+12,Cheese - Marble,"Other fracture of left foot, 7thB","€162,67",Arts & Entertainment,12,2023-10-07,2024-05-25
+13,Wine - Two Oceans Sauvignon,Rheu heart disease w rheumatoid arthritis of right hand,,aaaa,13,2023-02-26,2023-08-29
+14,Bacardi Breezer - Strawberry,"Contusion of fallopian tube, unilateral, subs encntr","€820,61",Gifts & Special Events,14,2023-09-01,2024-02-16
+15,Sugar - White Packet,"Ped on foot injured in collision w pedl cyc in traf, init","€533,43",Attractions,15,2023-04-02,2023-07-30
+16,Swordfish Loin Portions,Unsp pedal cyclist injured in collision w ped/anml in traf,"€716,32",vvvv,16,2023-12-09,2023-06-10
+17,Coffee - Hazelnut Cream,"War operations involving explosion of depth-chg, milt, init","€976,04",Beauty & Fitness,17,2024-05-07,2024-05-23
+18,Mushroom - Morel Frozen,Fall from non-in-line roller-skates,"€948,58",aaaa,18,2024-02-14,2023-08-01
+19,Chevril,Indeterminate colitis,,aaaa,19,2023-08-19,2023-03-30
+20,"Shrimp, Dried, Small / Lb","Decreased fetal movements, third trimester, fetus 2","€628,91",aaaa,20,2024-07-01,2023-09-14
+21,Water - Spring Water 500ml,Avulsion of scalp,"€629,31",Food & Drink,21,2023-04-15,2024-01-07
+22,Sproutsmustard Cress,"Chorioamnionitis, second trimester, fetus 4","€135,52",Arts & Entertainment,22,2023-02-25,2024-03-13
+23,Haggis,"Disp fx of anterior process of left calcaneus, init","€395,62",aaaa,23,2024-02-05,2023-01-31
+24,Wine - Remy Pannier Rose,"Unsp superfic inj right eyelid and perioculr area, subs","€689,31",Arts & Entertainment,24,2024-01-27,2023-08-15
+25,Jello - Assorted,Inj radial artery at wrist and hand level of left arm,"€479,57",Food & Drink,25,2023-06-22,2023-07-09
+26,Kumquat,"Other specified injuries of unspecified foot, init encntr",,Arts & Entertainment,26,2024-01-14,2023-08-18
+27,"Oil - Truffle, White","Corrosion of third degree of left elbow, subs encntr","€934,11",Gifts & Special Events,27,2023-02-12,2023-10-12
+28,Bar Special K,"Disp fx of shaft of 2nd MC bone, l hand, 7thG","€90,04",Beauty & Fitness,28,2023-10-15,2024-02-05
+29,Bagelers,High risk homosexual behavior,"€183,35",aaaa,29,2024-02-12,2023-10-28
+30,Pastry - Chocolate Marble Tea,"Other superficial bite of right thumb, initial encounter",,Food & Drink,30,2024-05-20,2023-04-19
+31,Peas Snow,Dir infct of left ank/ft in infec/parastc dis classd elswhr,"€948,81",Food & Drink,31,2024-05-12,2023-07-02
+32,Cream - 35%,"Postprocedural shock unspecified, sequela","€195,00",Beauty & Fitness,32,2023-11-06,2024-05-12
+33,"Vermouth - Sweet, Cinzano",Abrasion of unspecified forearm,"€553,47",Gifts & Special Events,33,2023-05-07,2024-04-07
+34,"Shrimp - 21/25, Peel And Deviened","Partial traumatic trnsphal amputation of r mid finger, init","€199,44",vvvv,34,2024-05-10,2023-03-11
+35,Wood Chips - Regular,"Superficial frostbite of left ankle, initial encounter","€308,29",Beauty & Fitness,35,2024-01-11,2024-05-10
+36,Fondant - Icing,Oth chronic resp diseases origin in the perinatal period,"€616,48",aaaa,36,2023-08-24,2024-05-01
+37,Pails With Lids,Partial traumatic amputation of left great toe,,Attractions,37,2024-04-19,2023-07-26
+38,"Tomatoes - Vine Ripe, Yellow","Chloasma of right eye, unsp eyelid and periocular area","€878,49",vvvv,38,2023-08-17,2024-01-13
+39,Bread Crumbs - Japanese Style,Unsp car occupant injured in collision w hv veh in traf,"€985,41",Food & Drink,39,2023-04-28,2023-02-05
+40,Ostrich - Fan Fillet,Malignant neoplasm of olfactory nerve,"€726,06",Arts & Entertainment,40,2023-04-11,2024-02-04
+41,Chicken - Soup Base,"Unspecified otosclerosis, bilateral","€324,91",Gifts & Special Events,41,2023-11-20,2024-02-25
+42,Energy Drink - Redbull 355ml,Open bite of lower back and pelvis,"€260,83",Food & Drink,42,2023-03-18,2023-08-27
+43,Filo Dough,"Unspecified injury of dorsal artery of right foot, sequela",,Beauty & Fitness,43,2023-11-02,2023-07-19
+44,"Beef - Cooked, Corned","Matern care for oth or susp poor fetl grth, third tri, fts2","€378,42",vvvv,44,2024-01-17,2023-01-07
+45,"Chilli Paste, Sambal Oelek","Contusion of right ring finger w/o damage to nail, init","€901,62",Attractions,45,2024-04-05,2023-05-21
+46,"Wine - Magnotta, White","Fracture of unsp phalanx of left little finger, init","€492,06",Attractions,46,2023-05-02,2023-09-20
+47,"Yogurt - Blueberry, 175 Gr",Other biomechanical lesions of thoracic region,"€470,05",Beauty & Fitness,47,2023-07-19,2023-02-01
+48,"Veal - Leg, Provimi - 50 Lb Max","Open bite, right thigh, subsequent encounter","€778,39",Beauty & Fitness,48,2023-01-04,2023-07-10
+49,Energy - Boo - Koo,"Pnctr w/o fb of abd wall, l upr q w penet perit cav, subs","€90,36",Beauty & Fitness,49,2023-05-27,2023-09-18
+50,"Stock - Veal, Brown","Effusion, left hand","€92,60",vvvv,50,2024-04-07,2023-03-25
+51,Basil - Fresh,"Oth fx of lower end left radius, subs for clos fx w nonunion","€235,18",Arts & Entertainment,51,2023-06-30,2023-08-18
+52,Olive - Spread Tapenade,"Nondisp fx of mid 3rd of navic bone of r wrs, 7thP","€981,72",Attractions,52,2023-05-05,2024-05-15
+53,"Pepper - Red, Finger Hot","Sltr-haris Type II physl fx upr end rad, r arm, 7thP","€952,33",Beauty & Fitness,53,2024-06-28,2023-03-19
+54,"Cake Circle, Foil, Scallop","Insect bite of unsp external genital organs, male, sequela","€795,10",aaaa,54,2023-06-27,2024-05-10
+55,Cheese - Cheddar With Claret,"Displacement of int fix of right humerus, subs","€109,66",Food & Drink,55,2024-06-06,2024-05-27
+56,Beef - Top Sirloin - Aaa,"Poisoning by stimulant laxatives, undetermined, subs encntr","€679,34",Food & Drink,56,2024-03-09,2024-01-31
+57,Appetizer - Mushroom Tart,"Nondisp fx of trapezoid, unsp wrist, subs for fx w malunion","€214,20",Attractions,57,2023-01-22,2023-08-17
+58,Shrimp - 100 / 200 Cold Water,"Fall from non-moving motorized mobility scooter, sequela","€508,95",Food & Drink,58,2023-04-16,2023-04-05
+59,Chicken - Leg / Back Attach,"Heat exposure on board unspecified watercraft, init encntr","€140,65",Beauty & Fitness,59,2023-08-28,2023-04-08
+60,Sage - Ground,"Unsp trochan fx unsp femr, 7thH","€125,44",Gifts & Special Events,60,2023-04-07,2024-05-02
+61,Bread - Bistro Sour,"Disp fx of head of l rad, 7thQ","€118,03",vvvv,61,2024-05-05,2023-08-09
+62,Energy Drink,"Hordeolum externum unspecified eye, unspecified eyelid","€889,00",Gifts & Special Events,62,2023-08-03,2024-01-04
+63,Compound - Rum,"Toxic effect of contact w Portugese Man-o-war, slf-hrm, subs","€200,17",Arts & Entertainment,63,2023-01-30,2023-06-07
+64,Bread Base - Italian,"Nondisp commnt fx shaft of ulna, r arm, 7thD","€775,45",Beauty & Fitness,64,2023-07-21,2023-01-12
+65,Pate Pans Yellow,"Unspecified contusion of spleen, subsequent encounter","€248,09",Attractions,65,2024-04-14,2023-12-15
+66,Potatoes - Idaho 100 Count,"Osteopathy in diseases classified elsewhere, unsp site","€65,25",Beauty & Fitness,66,2023-03-30,2023-05-06
+67,Veal - Slab Bacon,"Displ seg fx shaft of rad, unsp arm, 7thG","€189,56",Gifts & Special Events,67,2024-03-17,2023-05-06
+68,Amaretto,Other chronic tubulo-interstitial nephritis,"€359,09",Food & Drink,68,2023-08-25,2023-01-30
+69,"Wine - Red, Cabernet Merlot","Other fracture of second metacarpal bone, right hand","€503,97",Attractions,69,2024-01-26,2023-08-15
+70,"Mushrooms - Black, Dried","Nondisp avulsion fx left ilium, subs for fx w routn heal",,Attractions,70,2024-03-02,2023-01-14
+71,Egg Patty Fried,"Postauricular fistula, right ear","€205,07",Arts & Entertainment,71,2023-06-29,2024-02-05
+72,Bread - Italian Sesame Poly,Nondisplaced oblique fracture of shaft of unspecified ulna,"€953,21",Arts & Entertainment,72,2023-04-20,2023-02-18
+73,Pork - Smoked Back Bacon,Acquired absence of other toe(s),"€918,11",vvvv,73,2024-04-25,2023-05-26
+74,Pork - European Side Bacon,Insect bite (nonvenomous) of ear,"€374,43",Gifts & Special Events,74,2023-04-30,2023-05-02
+75,"Apple - Delicious, Red","Toxic effect of unsp alcohol, accidental, init","€380,19",vvvv,75,2023-07-28,2023-12-12
+76,Yeast Dry - Fleischman,"Disp fx of nk of 3rd MC bone, r hand, 7thD","€149,23",Arts & Entertainment,76,2024-05-30,2023-12-28
+77,Tomatoes - Hot House,Tight hymenal ring,"€871,64",aaaa,77,2024-03-25,2024-06-07
+78,Ecolab - Hobart Washarm End Cap,"Strain of msl/fasc/tnd posterior grp at thi lev, left thigh","€554,32",vvvv,78,2023-04-29,2023-06-01
+79,Longos - Chicken Curried,"Other specified disorders of cartilage, multiple sites",,Beauty & Fitness,79,2023-06-25,2023-05-22
+80,"Mushroom - Trumpet, Dry","Hydroxyapatite deposition disease, hand","€392,21",Gifts & Special Events,80,2024-04-05,2023-09-27
+81,Compound - Orange,Dissection of carotid artery,"€12,68",Gifts & Special Events,81,2023-12-28,2023-08-28
+82,Potatoes - Peeled,Atopic neurodermatitis,"€39,33",Beauty & Fitness,82,2024-06-24,2024-06-06
+83,Muffin Mix - Chocolate Chip,"Unsp opn wnd low back and pelvis w penet retroperiton, subs","€358,54",Gifts & Special Events,83,2024-01-08,2023-08-17
+84,Shrimp - Black Tiger 6 - 8,"Unspecified subluxation of right index finger, sequela","€227,68",vvvv,84,2023-09-05,2023-10-25
+85,Tea - Earl Grey,"Disord of amnio fluid and membrns, unsp, second tri, fetus 5","€146,92",Attractions,85,2023-01-27,2024-03-11
+86,Shrimp - Tiger 21/25,"Other injury of muscle, fascia and tendon of pelvis, sequela","€377,26",Beauty & Fitness,86,2023-02-05,2024-05-02
+87,Radish,"Nondisp seg fx shaft of unsp femr, 7thQ","€336,25",Food & Drink,87,2023-07-26,2023-04-24
+88,"Plate - Foam, Bread And Butter","Underdosing of iron and its compounds, subsequent encounter","€201,35",Arts & Entertainment,88,2024-06-08,2023-10-01
+89,Olives - Nicoise,"Milt op involving explosion of aerial bomb, milt","€26,82",Gifts & Special Events,89,2023-03-10,2023-10-02
+90,Scallops - 20/30,Nondisp fx of greater trochanter of unspecified femur,"€178,37",Attractions,90,2023-03-30,2023-11-11
+91,Island Oasis - Magarita Mix,"Unsp fracture of fifth lumbar vertebra, init for clos fx","€445,27",Beauty & Fitness,91,2024-06-12,2024-06-04
+92,Beans - Fava Fresh,"Person injured wh brd/alit from amblnc/fire eng, sequela","€717,13",vvvv,92,2024-01-21,2023-04-06
+93,Fruit Mix - Light,Osteitis deformans [Paget's disease of bone],"€299,62",Arts & Entertainment,93,2024-04-09,2023-03-25
+94,Bacon Strip Precooked,"Burn of left ear drum, sequela","€639,94",Beauty & Fitness,94,2023-01-21,2023-10-09
+95,Appetizer - Sausage Rolls,Abdominal aortic ectasia,"€672,19",Food & Drink,95,2023-01-06,2023-08-08
+96,Sauce Bbq Smokey,Diabetes due to underlying condition w unsp diabetic rtnop,,Attractions,96,2023-03-07,2023-06-08
+97,Wiberg Cure,"Poisoning by local anesthetics, assault, initial encounter","€687,67",Food & Drink,97,2023-12-16,2023-09-21
+98,"Pasta - Cannelloni, Sheets, Fresh",Mechanical lagophthalmos,"€225,32",aaaa,98,2024-01-22,2023-02-26
+99,Wine - Magnotta - Cab Franc,Chronic venous hypertension w inflammation of r low extrem,"€699,33",aaaa,99,2024-02-18,2023-05-11
+100,Salt - Seasoned,"Burn of third degree of left axilla, sequela","€72,31",Attractions,100,2023-10-20,2023-02-27
+101,Flower - Leather Leaf Fern,"Poisoning by immunoglobulin, accidental, subs",,aaaa,101,2023-07-28,2023-11-07
+102,Coffee Decaf Colombian,"Nondisp fx of olecran pro w/o intartic extn r ulna, 7thM","€22,04",Arts & Entertainment,102,2023-07-30,2023-06-24
+103,Kellogs Special K Cereal,"Sprain of other ligament of right ankle, initial encounter","€994,54",Food & Drink,103,2024-06-29,2023-06-04
+104,Flower - Daisies,"Sltr-haris Type III physeal fx phalanx of unsp toe, 7thD","€717,33",Beauty & Fitness,104,2023-01-15,2023-05-23
+105,Chocolate Bar - Coffee Crisp,"Poisoning by propionic acid derivatives, self-harm","€477,45",vvvv,105,2023-05-23,2023-04-17
+106,Tea - Honey Green Tea,"Unsp fx upper end unsp tibia, subs for clos fx w delay heal","€930,84",Beauty & Fitness,106,2024-01-12,2023-07-31
+107,Cookie - Dough Variety,Unspecified fracture of calcaneus,"€621,78",vvvv,107,2023-06-22,2023-01-09
+108,Chick Peas - Dried,"Corrosion of first degree of female genital region, init",,vvvv,108,2023-04-09,2023-06-01
+109,"Sole - Dover, Whole, Fresh","Displ artic fx head of unsp femr, 7thN","€722,11",vvvv,109,2023-12-14,2023-09-18
+110,"Star Anise, Whole","Unsp intracap fx r femr, 7thE","€571,48",vvvv,110,2023-06-12,2023-03-11
+111,"Tendrils - Baby Pea, Organic",Athscl type of bypass graft(s) of the left leg w ulceration,"€68,95",aaaa,111,2023-06-06,2024-06-17
+112,"Beef - Bones, Cut - Up","Corrosion of first degree of scalp, initial encounter","€574,81",aaaa,112,2023-10-20,2023-05-08
+113,Flour - Fast / Rapid,Other sequelae of cerebral infarction,"€2,35",vvvv,113,2023-07-28,2023-11-22
+114,"Beets - Candy Cane, Organic",Other specified disorders of brain,,Gifts & Special Events,114,2023-09-08,2024-01-11
+115,Pork - European Side Bacon,"Driver of pk-up/van inj in nonclsn trnsp acc in traf, sqla","€68,94",Gifts & Special Events,115,2024-05-06,2023-07-18
+116,Dc - Sakura Fu,"Ped on rolr-skt injured in clsn w 2/3-whl mv, unsp, init","€523,90",Attractions,116,2024-01-21,2023-08-09
+117,Muffin Batt - Choc Chk,"Unsp fracture of unsp acetabulum, subs for fx w delay heal","€455,12",vvvv,117,2024-06-06,2024-04-05
+118,Muskox - French Rack,"Traum hemor l cereb w LOC w dth d/t brain inj bf consc, subs","€661,60",Gifts & Special Events,118,2023-07-21,2024-02-01
+119,Lamb - Loin Chops,Other Niemann-Pick disease,"€820,03",Beauty & Fitness,119,2024-03-17,2023-08-08
+120,Pork - Hock And Feet Attached,Unsp mtrcy rider injured in collision w 2/3-whl mv in traf,"€611,31",Attractions,120,2024-02-06,2023-09-15
+121,Appetizer - Cheese Bites,Facial weakness following nontraumatic intcrbl hemorrhage,"€652,48",Gifts & Special Events,121,2023-05-25,2023-10-12
+122,"Chocolate - Milk, Callets","Nondisp suprcndl fx w/o intrcndl extn low end l femr, 7thD","€101,42",Food & Drink,122,2023-01-25,2023-07-26
+123,Bread - Italian Sesame Poly,"Displ Maisonneuve's fx unsp leg, 7thH","€655,11",Attractions,123,2023-01-06,2023-12-09
+124,Beer - True North Lager,"Unsp fracture of unsp ischium, init for clos fx","€230,99",Arts & Entertainment,124,2023-01-10,2024-04-14
+125,Longos - Grilled Veg Sandwiches,Other varicella complications,"€58,34",Beauty & Fitness,125,2023-09-26,2024-06-18
+126,"Cup - 3.5oz, Foam","Unsp fx first MC bone, unsp hand, subs for fx w routn heal","€658,31",Arts & Entertainment,126,2024-06-05,2023-08-11
+127,Pasta - Agnolotti - Butternut,"Helicopter crash injuring occupant, initial encounter","€970,57",Arts & Entertainment,127,2023-07-05,2023-06-16
+128,"Lemonade - Mandarin, 591 Ml","Pre-existing type 2 diabetes, in pregnancy, second trimester","€21,55",Food & Drink,128,2024-01-19,2023-10-29
+129,Pickerel - Fillets,"Unsp mtrcy rider injured in clsn w pedl cyc nontraf, init","€666,47",Beauty & Fitness,129,2023-07-14,2023-12-10
+130,Syrup - Kahlua Chocolate,"Toxic effect of contact w oth venom animals, assault, init","€98,29",Arts & Entertainment,130,2024-04-07,2023-04-19
+131,Cheese - Fontina,Sprain of tibiofibular ligament of unspecified ankle,"€199,95",Attractions,131,2023-10-08,2023-09-03
+132,"Wine - Sherry Dry Sack, William","Unspecified Eustachian salpingitis, left ear","€951,41",vvvv,132,2023-12-08,2023-06-10
+133,Ocean Spray - Kiwi Strawberry,Open bite of unspecified upper arm,"€605,52",Food & Drink,133,2023-02-08,2024-01-18
+134,Pastry - Key Limepoppy Seed Tea,Other lymphoid leukemia,"€966,67",vvvv,134,2024-04-05,2023-10-23
+135,"Quail - Whole, Boneless","War op w dest arcrft due to clsn w oth arcrft, civ, subs","€202,21",Beauty & Fitness,135,2024-05-14,2024-04-23
+136,Jicama,Varicose veins of r low extrem w ulcer of heel and midfoot,"€732,14",Arts & Entertainment,136,2023-08-15,2023-01-02
+137,Calvados - Boulard,"Sprain of unsp parts of right shoulder girdle, init encntr","€378,53",aaaa,137,2023-06-03,2024-04-27
+138,Pepper - Chili Powder,"Other water transport accident, sequela","€684,35",Food & Drink,138,2023-09-06,2023-10-05
+139,Energy Drink Red Bull,"Strain of unsp musc/fasc/tend at wrs/hnd lv, left hand, subs","€743,89",Attractions,139,2024-06-09,2023-04-30
+140,Scallops - 10/20,Open wound of back wall of thorax w/o penet thoracic cavity,"€34,91",Beauty & Fitness,140,2024-04-26,2024-04-09
+141,Puree - Mango,"Burn of unspecified degree of right ankle, initial encounter","€296,47",Beauty & Fitness,141,2024-03-29,2024-05-10
+142,Red Pepper Paste,"Displaced apophyseal fracture of unsp femur, init","€882,87",aaaa,142,2023-01-13,2023-10-23
+143,Croissants Thaw And Serve,Insect bite (nonvenomous) of left hand,,Arts & Entertainment,143,2024-06-11,2024-04-11
+144,"Wine - Red, Colio Cabernet","Assault by steam, hot vapors and hot objects","€625,00",vvvv,144,2023-09-20,2023-11-07
+145,"Tart Shells - Savory, 4","Other secondary chronic gout, right wrist, without tophus",,aaaa,145,2023-02-10,2023-05-13
+146,"Nut - Almond, Blanched, Ground",Antidotes and chelating agents,"€304,95",Food & Drink,146,2023-03-12,2024-02-23
+147,Laundry - Bag Cloth,"Toxic effect of chlorine gas, undetermined, init encntr","€128,23",Gifts & Special Events,147,2023-09-26,2023-06-10
+148,Table Cloth 91x91 Colour,"Oth intartic fx low end l rad, subs for clos fx w delay heal","€414,30",aaaa,148,2023-02-02,2023-02-26
+149,Garbage Bag - Clear,"Unsp fx shaft of r femr, subs for opn fx type I/2 w nonunion","€745,28",Beauty & Fitness,149,2024-01-13,2024-05-27
+150,"Tortillas - Flour, 10",Other specified acquired deformities of left upper arm,"€636,62",Food & Drink,150,2023-08-17,2023-04-26
+151,Creme De Cacao White,"Minor laceration of thoracic aorta, subsequent encounter","€15,46",Beauty & Fitness,151,2023-07-09,2023-01-06
+152,Radish,Wedge compression fracture of unspecified lumbar vertebra,"€131,42",aaaa,152,2024-04-16,2023-03-19
+153,Nestea - Iced Tea,Microstomia,"€576,68",Food & Drink,153,2023-05-27,2024-06-07
+154,Calaloo,Theraputc and rehab physical medicine devices assoc w incdt,"€543,57",Gifts & Special Events,154,2024-06-09,2023-12-23
+155,Wine - Rosso Toscano Igt,"Burn of unsp degree of unsp scapular region, subs encntr","€117,29",aaaa,155,2023-04-30,2023-02-26
+156,Dip - Tapenade,"Poisoning by antirheumatics, NEC, assault","€416,14",Gifts & Special Events,156,2024-05-13,2023-05-12
+157,"Roe - Lump Fish, Red",Displaced fracture of base of unspecified metacarpal bone,"€535,64",vvvv,157,2023-12-22,2023-11-15
+158,Lid Coffeecup 12oz D9542b,"Maternal care for oth fetal problems, second trimester, oth",,Food & Drink,158,2024-01-28,2023-01-12
+159,Beans - Fava Fresh,"Major laceration of unspecified carotid artery, init encntr","€533,95",Gifts & Special Events,159,2023-02-02,2023-06-16
+160,Pastry - Lemon Danish - Mini,Strain of flexor musc/fasc/tend of unsp fngr at forarm lv,"€830,15",Gifts & Special Events,160,2023-02-05,2023-07-10
+161,"Sauce - Bernaise, Mix",Other acute pancreatitis without necrosis or infection,"€278,09",aaaa,161,2024-04-18,2024-01-18
+162,"Yogurt - Cherry, 175 Gr","Nondisp oth fx tuberosity of r calcaneus, 7thK","€714,20",Arts & Entertainment,162,2024-06-22,2023-12-23
+163,Island Oasis - Sweet And Sour Mix,"Drown d/t thrown ovrbrd by motion of unsp wtrcrft, subs","€83,40",aaaa,163,2024-01-13,2023-05-03
+164,Wine - Shiraz Wolf Blass Premium,"Superficial foreign body of unsp part of head, sequela","€793,64",Food & Drink,164,2023-06-21,2023-12-13
+165,Steampan - Lid For Half Size,Military operations involving unarmed hand to hand combat,"€216,26",Beauty & Fitness,165,2023-12-24,2023-05-26
+166,Loquat,Complete traumatic trnsphal amputation of l little finger,"€235,13",Beauty & Fitness,166,2024-04-19,2023-05-03
+167,Soup - Cream Of Potato / Leek,Carcinoma in situ of other specified sites,"€962,36",Food & Drink,167,2024-01-19,2024-06-17
+168,Coffee - Hazelnut Cream,"Laceration of posterior tibial artery, left leg, sequela","€160,71",Arts & Entertainment,168,2024-02-16,2024-02-16
+169,Avocado,"Poisoning by unsp narcotics, undetermined, subs encntr","€770,97",Food & Drink,169,2023-04-13,2023-08-06
+170,Rum - Mount Gay Eclipes,"Prsnl hx of malig neoplm of unsp site lip,oral cav,& pharynx","€21,62",Arts & Entertainment,170,2024-04-21,2023-06-12
+171,"Lamb - Leg, Diced","Unsp inj unsp musc/fasc/tend at forarm lv, left arm, subs","€899,01",aaaa,171,2023-04-22,2023-07-28
+172,Tomatoes,Chronic inflammatory demyelinating polyneuritis,"€773,32",Arts & Entertainment,172,2024-07-01,2023-04-05
+173,"Wine - Magnotta, Merlot Sr Vqa","Unstable burst fracture of T9-T10 vertebra, sequela","€741,92",Arts & Entertainment,173,2023-01-20,2023-03-27
+174,Lettuce - Iceberg,"Oth fx right femur, subs for opn fx type I/2 w nonunion","€262,31",Attractions,174,2023-10-02,2023-06-05
+175,Brandy Apricot,Postproc seroma of a ms structure fol a ms sys procedure,"€4,63",aaaa,175,2023-02-12,2023-10-12
+176,Cheese - Mix,"Intcran inj w LOC >24 hr w/o ret consc w surv, init","€46,17",aaaa,176,2024-03-10,2024-05-10
+177,Cherries - Frozen,Drowning and submersion due to oth accident to fishing boat,"€369,28",vvvv,177,2023-02-10,2023-11-13
+178,Sugar - Invert,"Serous conjunctivitis, except viral, unspecified eye","€396,01",aaaa,178,2024-04-14,2023-03-29
+179,Table Cloth 62x114 White,"Toxic effect of detergents, intentional self-harm, subs","€443,96",Food & Drink,179,2023-02-28,2023-11-15
+180,Waffle Stix,Motorcycle passenger injured in collision w pedl cyc in traf,"€680,69",Beauty & Fitness,180,2023-08-29,2023-07-10
+181,Muffin Chocolate Individual Wrap,"Fall into oth water striking bottom causing oth injury, subs","€915,32",Attractions,181,2023-12-04,2023-04-12
+182,Calypso - Pineapple Passion,Phlebitis and thrombophlebitis of deep vessels of low extrm,,Gifts & Special Events,182,2023-05-12,2023-12-26
+183,"Olives - Green, Pitted",Glaucoma secondary to other eye disorders,"€40,50",aaaa,183,2024-04-04,2023-10-13
+184,Ham - Black Forest,Unspecified disp fx of surgical neck of right humerus,"€453,34",Beauty & Fitness,184,2024-06-23,2023-06-06
+185,Sauce Tomato Pouch,"Unsp fx fourth MC bone, left hand, subs for fx w nonunion","€680,42",aaaa,185,2024-01-22,2024-04-17
+186,Wine - Shiraz South Eastern,"Burn of esophagus, sequela","€876,66",Attractions,186,2024-05-18,2024-02-09
+187,Bagelers,"Cont preg aft uterin dth of one fts or more, third tri, fts1","€837,92",Food & Drink,187,2024-02-23,2023-09-10
+188,Flavouring - Orange,Hallux rigidus,"€731,79",aaaa,188,2024-03-09,2024-01-27
+189,Beans - Soya Bean,"Blister (nonthermal), right foot, initial encounter","€603,00",Food & Drink,189,2024-04-15,2024-05-04
+190,Coffee - Egg Nog Capuccino,"Drug-induced chronic gout, left wrist, with tophus (tophi)","€847,73",aaaa,190,2024-03-29,2023-06-08
+191,Cabbage - Savoy,Other iron deficiency anemias,"€16,51",Arts & Entertainment,191,2023-06-09,2024-05-07
+192,Bacardi Breezer - Strawberry,"Fall through floor, sequela","€924,25",Gifts & Special Events,192,2023-10-18,2023-03-22
+193,Mussels - Cultivated,"Oth fx lower end l ulna, subs for opn fx type I/2 w malunion","€788,57",aaaa,193,2023-01-31,2023-08-17
+194,Transfer Sheets,"Other superficial bite of right little finger, subs encntr","€808,00",Gifts & Special Events,194,2023-10-12,2024-06-26
+195,Sage Derby,"Fall from dock, initial encounter","€416,24",aaaa,195,2023-10-25,2024-02-22
+196,Gelatine Powder,"Age-rel osteopor w current path fx, unsp forearm, sequela","€940,48",Food & Drink,196,2024-04-26,2023-10-20
+197,Mince Meat - Filling,"Driver of hv veh inj in clsn w rail trn/veh nontraf, subs","€396,41",Food & Drink,197,2023-02-15,2023-11-23
+198,Beef - Top Sirloin - Aaa,"Legal intervnt w firearm disch, bystand injured, init","€558,86",Arts & Entertainment,198,2023-11-10,2023-12-20
+199,Muffin Carrot - Individual,"Poisoning by appetite depressants, assault, init encntr","€814,66",aaaa,199,2024-01-06,2024-01-23
+200,Wine - Bouchard La Vignee Pinot,"Maternal care for excess fetal growth, third trimester, oth","€899,84",Arts & Entertainment,200,2023-12-10,2023-04-14
+201,Cornflakes,"Unspecified noninfective disorders of pinna, unspecified ear",,Beauty & Fitness,201,2024-06-25,2023-05-02
+202,Wine - Cave Springs Dry Riesling,Other psoriasis,"€824,57",Attractions,202,2023-07-15,2023-10-06
+203,Wine - Prosecco Valdobiaddene,"Abrasion of left eyelid and periocular area, sequela","€930,93",Arts & Entertainment,203,2023-03-25,2023-08-20
+204,Creme De Menthe Green,"Crushing inj unsp external genital organs, female, init","€188,68",Food & Drink,204,2024-01-24,2023-08-25
+205,"Doilies - 7, Paper",Laceration w/o fb of l little finger w damage to nail,"€616,72",Gifts & Special Events,205,2023-12-11,2023-04-18
+206,Muffin Mix - Raisin Bran,"Disp fx of unsp radial styloid pro, 7thP","€934,24",Arts & Entertainment,206,2024-05-17,2024-05-06
+207,"Soup - Campbells, Minestrone","Nondisp commnt fx shaft of rad, unsp arm, 7thC","€71,39",vvvv,207,2024-03-11,2023-05-15
+208,Daves Island Stinger,"Wedge comprsn fx third thor vertebra, subs for fx w nonunion","€356,46",vvvv,208,2023-10-13,2024-02-25
+209,Soupfoamcont12oz 112con,Varicose veins of left lower extremity w ulcer of unsp site,"€274,01",vvvv,209,2024-02-17,2023-11-19
+210,Sole - Fillet,Malignant neoplasm of parietal lobe,"€375,17",Gifts & Special Events,210,2023-03-04,2023-01-02
+211,"Pork - Butt, Boneless","Other acute nonsuppurative otitis media recurrent, unsp ear","€197,01",Beauty & Fitness,211,2023-11-22,2023-08-11
+212,"Flour - Buckwheat, Dark",Torus fracture of lower end of unspecified humerus,"€82,28",Gifts & Special Events,212,2023-04-08,2023-10-07
+213,Creme De Cacao White,"Corros unsp degree of unsp mult fngr, not inc thumb, sqla","€265,58",Gifts & Special Events,213,2023-11-17,2024-06-15
+214,Sauce - Hollandaise,Laceration of flexor musc/fasc/tend r idx fngr at wrs/hnd lv,,aaaa,214,2023-07-31,2023-05-08
+215,Tomatoes - Grape,"Anterior dislocation of lens, bilateral","€873,52",Food & Drink,215,2024-02-09,2023-01-22
+216,Trout Rainbow Whole,"Injury of radial nerve at wrs/hnd lv of right arm, subs","€253,03",aaaa,216,2023-08-13,2024-06-27
+217,Nori Sea Weed,"Unspecified adverse effect of drug or medicament, sequela","€808,66",aaaa,217,2023-11-20,2023-01-13
+218,Crab - Meat,Nonspecific symptoms peculiar to infancy,"€70,29",vvvv,218,2023-04-06,2023-10-15
+219,Potatoes - Mini White 3 Oz,"Nondisp fx of 4th metatarsal bone, unsp ft, 7thG","€753,41",Attractions,219,2023-10-28,2023-01-04
+220,"Napkin - Dinner, White","Idiopathic chronic gout, left wrist, without tophus (tophi)","€608,48",aaaa,220,2023-02-04,2023-02-19
+221,"Wine - Saint - Bris 2002, Sauv","Pathological fracture in neoplastic disease, unsp ankle","€852,26",Gifts & Special Events,221,2023-05-04,2023-12-28
+222,Sprouts Dikon,"Car driver injured in collision w van nontraf, subs","€3,76",Arts & Entertainment,222,2023-05-10,2023-02-06
+223,Pork - Side Ribs,"Mtrcy driver injured in collision w unsp mv in traf, sequela",,Gifts & Special Events,223,2023-06-06,2023-11-02
+224,"Beef - Roasted, Cooked","Disp fx of med phalanx of r rng fngr, subs for fx w nonunion","€782,03",Gifts & Special Events,224,2023-01-14,2023-06-18
+225,Beans - Kidney White,Enterostomy hemorrhage,,Arts & Entertainment,225,2023-06-01,2023-11-23
+226,"Wine - Red, Harrow Estates, Cab",Insulin and oral hypoglycemic drugs,"€821,97",Arts & Entertainment,226,2024-05-25,2024-05-18
+227,Milk - Chocolate 500ml,Frostbite with tissue necrosis of arm,"€12,68",Gifts & Special Events,227,2023-12-28,2024-04-26
+228,Squid - U - 10 Thailand,Unspecified open wound of right hand,"€266,28",aaaa,228,2023-11-07,2024-02-16
+229,V8 Splash Strawberry Kiwi,"Displaced intertroch fx r femur, subs for clos fx w malunion","€856,93",vvvv,229,2023-11-30,2023-03-23
+230,Cilantro / Coriander - Fresh,Pyemic and septic embolism in childbirth,"€212,48",Arts & Entertainment,230,2024-02-07,2023-07-25
+231,Beer - Mcauslan Apricot,"Unsp nondisp fx of 7th cervcal vert, 7thD","€513,08",Attractions,231,2023-10-21,2024-06-04
+232,Pepper - Red Thai,"Oth fx head/neck of unsp femr, 7thJ","€629,34",Attractions,232,2024-04-09,2023-06-13
+233,"Oil - Food, Lacquer Spray","Oth types of non-hodg lymph, nodes of axilla and upper limb","€366,40",Gifts & Special Events,233,2023-07-08,2023-09-03
+234,Wine - Rosso Del Veronese Igt,"War op involving oth fire/hot subst, civilian, sequela","€707,69",aaaa,234,2024-01-19,2024-02-23
+235,Wine - Conde De Valdemar,"Unspecified dislocation of left index finger, sequela","€179,39",Arts & Entertainment,235,2023-04-08,2023-01-22
+236,Onions - Cippolini,Ulcerative (chronic) proctitis with complications,"€417,19",Attractions,236,2024-02-03,2023-08-30
+237,Table Cloth 62x120 White,"Disp fx of lateral condyle of unsp tibia, 7thQ","€552,07",Arts & Entertainment,237,2023-06-02,2023-09-09
+238,Tea - Vanilla Chai,"Osteonecrosis due to drugs, unspecified foot","€771,42",aaaa,238,2023-05-05,2023-04-03
+239,Cream - 35%,"Nondisp fx of greater trochanter of l femr, 7thF","€202,61",Food & Drink,239,2023-06-10,2023-11-29
+240,"Zucchini - Mini, Green",Occ of specl veh mainly used in agriculture inj in trnsp acc,"€58,48",Attractions,240,2023-08-27,2023-07-02
+241,"Lemonade - Kiwi, 591 Ml","Full-term prem ROM, onset labor within 24 hours of rupture","€804,53",vvvv,241,2023-11-23,2024-05-06
+242,Soup - Base Broth Chix,"Greenstick fracture of shaft of humerus, left arm","€692,53",Gifts & Special Events,242,2024-03-09,2023-01-28
+243,"Rice Pilaf, Dry,package","Displ commnt fx shaft of unsp tibia, 7thJ","€781,95",Gifts & Special Events,243,2024-02-04,2023-11-24
+244,Longos - Lasagna Veg,"Severe pre-eclampsia, unspecified trimester","€757,07",Gifts & Special Events,244,2023-11-22,2023-09-19
+245,Bar Mix - Lime,Tuberculosis of spleen,"€341,84",Attractions,245,2023-06-30,2023-05-04
+246,Fennel - Seeds,"Open bite, left elbow, initial encounter","€237,06",vvvv,246,2023-10-10,2023-07-18
+247,Halibut - Steaks,"Cystic fibrosis, unspecified",,Arts & Entertainment,247,2023-06-13,2024-05-22
+248,Wine - Bouchard La Vignee Pinot,Laceration with foreign body of left buttock,"€470,40",Gifts & Special Events,248,2023-02-28,2024-06-05
+249,"Trout - Hot Smkd, Dbl Fillet","Sublux of proximal interphaln joint of unsp finger, init","€319,16",vvvv,249,2024-03-09,2023-09-15
+250,"Lamb - Leg, Boneless",Rapidly progr neph synd w diffus mesangial prolif glomrlneph,"€316,61",Gifts & Special Events,250,2024-06-15,2023-12-07
+251,Water - Perrier,"Moderate laceration of right kidney, sequela","€340,59",Attractions,251,2023-09-15,2024-05-12
+252,Coffee - Decafenated,"Laceration w/o foreign body of oth part of head, subs encntr",,Gifts & Special Events,252,2024-05-05,2023-01-21
+253,Wine - Rubyport,"Maternal care for Anti-A sensitization, third tri, fetus 5","€832,50",Attractions,253,2023-01-21,2023-09-07
+254,Chicken - Whole Fryers,Human immunodeficiency virus disease compl preg/chldbrth,"€582,99",vvvv,254,2024-06-01,2023-10-31
+255,Hummus - Spread,"Other subluxation of unspecified knee, subsequent encounter","€596,56",aaaa,255,2023-08-07,2023-06-10
+256,Ostrich - Prime Cut,"Poisoning by cardi-stim glycos/drug simlar act, undet, init","€263,65",Beauty & Fitness,256,2023-12-01,2023-10-03
+257,Food Colouring - Orange,"Wedge compression fracture of second thor vertebra, sequela","€890,33",Beauty & Fitness,257,2023-11-10,2024-01-08
+258,"Mushroom - Chanterelle, Dry",Fracture of unspecified part of right clavicle,"€889,09",Arts & Entertainment,258,2024-02-06,2023-05-21
+259,Shrimp - 31/40,"Ped on sktbrd injured in clsn w nonmtr vehicle nontraf, init","€589,27",Food & Drink,259,2023-10-15,2023-11-24
+260,Oil - Pumpkinseed,"Displaced spiral fracture of shaft of radius, right arm","€329,13",Beauty & Fitness,260,2024-06-20,2024-02-02
+261,Beets - Golden,"Infection of amputation stump, right upper extremity","€433,15",Beauty & Fitness,261,2023-05-08,2023-01-17
+262,Lobster - Tail 6 Oz,"Fracture of unspecified part of body of left mandible, 7thD","€381,48",Arts & Entertainment,262,2023-10-20,2023-01-01
+263,Food Colouring - Blue,Nondisplaced fracture of left tibial spine,"€186,37",Gifts & Special Events,263,2024-02-14,2023-11-29
+264,Wine - Shiraz Wolf Blass Premium,Arcuate uterus,"€611,24",Attractions,264,2023-01-31,2024-05-02
+265,Sobe - Cranberry Grapefruit,"Other specified bursopathies, right ankle and foot","€90,58",Attractions,265,2023-02-12,2023-12-04
+266,Appetizer - Mushroom Tart,"Coloboma of optic disc, bilateral","€54,39",Attractions,266,2024-03-16,2024-05-12
+267,Crackers - Water,Diabetes insipidus,,Attractions,267,2023-08-03,2023-01-15
+268,Goldschalger,"Periprosth fracture around internal prosth r knee jt, init","€742,61",Food & Drink,268,2023-07-04,2023-03-01
+269,Squid - U - 10 Thailand,"Torus fx lower end of l humerus, subs for fx w routn heal","€553,56",vvvv,269,2023-02-18,2024-02-18
+270,Broom And Brush Rack Black,"Toxic effect of unsp alcohol, undetermined, subs encntr","€425,83",vvvv,270,2023-05-14,2023-02-14
+271,Soup - Campbellschix Stew,External constriction of unspecified wrist,"€573,88",Arts & Entertainment,271,2023-01-18,2023-04-16
+272,Table Cloth 90x90 White,"Corrosion of first degree of unsp forearm, subs encntr","€277,48",Attractions,272,2024-02-11,2023-03-23
+273,Relish,"Other family member, perpetrator of maltreatment and neglect","€817,85",aaaa,273,2024-04-06,2023-10-17
+274,Wine - Two Oceans Cabernet,"Unsp athscl nonaut bio bypass of the extremities, left leg","€190,85",Beauty & Fitness,274,2024-01-07,2023-12-27
+275,Bread - Sour Sticks With Onion,"Exposure to radon, subsequent encounter","€793,85",aaaa,275,2023-07-24,2024-05-04
+276,Dill Weed - Dry,"Poisoning by other topical agents, intentional self-harm","€199,33",aaaa,276,2024-06-07,2023-01-28
+277,Chinese Foods - Chicken,"Milt op involving explosion of marine weapons, civilian","€940,46",Beauty & Fitness,277,2024-03-22,2024-06-26
+278,"Wine - Saint - Bris 2002, Sauv",Pediculosis and phthiriasis,"€86,11",Beauty & Fitness,278,2024-03-03,2023-05-02
+279,Meldea Green Tea Liquor,Spastic hemiplegia affecting left dominant side,"€109,28",Attractions,279,2023-04-15,2024-03-09
+280,Lettuce - Arugula,"Nondisp fx of shaft of other metacarpal bone, sequela",,Arts & Entertainment,280,2024-06-03,2024-04-21
+281,Bagel - Everything Presliced,"Unsp injury of superfic vn at shldr/up arm, left arm, subs","€82,35",Attractions,281,2024-03-13,2023-06-20
+282,Wine - Fontanafredda Barolo,"Laceration of plantar artery of unsp foot, subs encntr","€314,41",Food & Drink,282,2024-04-05,2023-02-18
+283,Potatoes - Yukon Gold 5 Oz,"Contusion of other part of small intestine, sequela","€127,16",Gifts & Special Events,283,2023-09-03,2023-12-14
+284,Muffin - Mix - Bran And Maple 15l,"Infct of amniotic sac and membrns, unsp, first tri, fetus 1","€920,63",Attractions,284,2024-02-25,2023-02-17
+285,Beer - Maudite,"Nondisp seg fx shaft of r tibia, 7thD","€502,95",Food & Drink,285,2023-03-15,2023-05-15
+286,Sugar - Brown,"Corros 3rd deg mu sites of shldr/up lmb, ex wrs/hnd, subs","€797,32",Arts & Entertainment,286,2023-06-05,2024-01-21
+287,Oranges,Burns of 40-49% of body surface w 20-29% third degree burns,"€353,35",Arts & Entertainment,287,2023-12-02,2023-11-22
+288,Tea - Vanilla Chai,Oth traumatic displ spondylolysis of second cervcal vertebra,"€355,06",Food & Drink,288,2023-05-15,2023-03-02
+289,Sage Ground Wiberg,Malignant neoplasm of other and unsp male genital organs,"€12,27",Beauty & Fitness,289,2023-06-26,2024-03-01
+290,Watercress,"Nondisp fx of med malleolus of l tibia, 7thQ","€659,30",Attractions,290,2024-05-14,2023-03-24
+291,"Peas - Pigeon, Dry","Nondisplaced comminuted fracture of right patella, init",,vvvv,291,2023-02-21,2023-12-07
+292,Cake Sheet Combo Party Pack,"Non-ABO incompat w delayed hemolytic transfs react, init","€488,85",Beauty & Fitness,292,2023-05-02,2024-02-04
+293,Rice - Sushi,"Strain of left quadriceps muscle, fascia and tendon, subs","€478,28",Beauty & Fitness,293,2024-04-26,2024-02-17
+294,Daikon Radish,"Nondisp Rolando's fracture, r hand, subs for fx w nonunion","€806,11",vvvv,294,2024-01-05,2024-02-19
+295,"Cup - 6oz, Foam",Acute nephritic syndrome with unsp morphologic changes,,Food & Drink,295,2023-03-11,2024-03-15
+296,Capers - Ox Eye Daisy,"Adverse effect of other systemic antibiotics, subs encntr",,Food & Drink,296,2023-06-20,2024-06-27
+297,Tofu - Soft,"Penetrating wound of orbit w or w/o fb, right eye, init","€567,81",Food & Drink,297,2024-01-19,2023-05-31
+298,Island Oasis - Raspberry,"Other anterior subluxation of left hip, subsequent encounter","€999,38",Arts & Entertainment,298,2023-10-15,2023-06-07
+299,Flour Dark Rye,"Nondisp fx of body of scapula, unspecified shoulder","€258,32",Food & Drink,299,2023-01-17,2024-01-22
+300,"Wine - White, Schroder And Schyl",Blister (nonthermal) of right thumb,"€792,92",aaaa,300,2023-07-01,2024-03-24
+301,"Mushroom - Enoki, Dry","Chloasma of left eye, unspecified eyelid and periocular area","€386,51",vvvv,301,2024-03-05,2024-03-04
+302,Flour Dark Rye,Malignant melanoma of right ear and external auricular canal,,Gifts & Special Events,302,2023-09-17,2023-12-27
+303,Filling - Mince Meat,"Unsp open wound of r little finger w damage to nail, sequela","€653,22",aaaa,303,2024-02-08,2024-05-05
+304,Tilapia - Fillets,"Other injury due to other accident to sailboat, sequela","€535,94",vvvv,304,2024-04-05,2023-08-11
+305,Myers Planters Punch,"Displ transverse fx shaft of humer, r arm, 7thP","€21,41",vvvv,305,2023-01-02,2023-10-05
+306,Water - Spring 1.5lit,"Gonococcal infection of eye, unspecified",,Gifts & Special Events,306,2023-08-05,2023-07-12
+307,Chef Hat 20cm,"Unsp fx low end r ulna, 7thN","€716,42",Attractions,307,2023-09-09,2024-01-24
+308,Teriyaki Sauce,"Prsn brd/alit pedl cyc inj in clsn w oth pedl cyc, sequela","€960,52",Beauty & Fitness,308,2023-05-04,2023-04-10
+309,"Tart Shells - Barquettes, Savory","Displacement of muscle and tendon graft, sequela",,Gifts & Special Events,309,2024-01-21,2024-05-03
+310,"Pepper - Chipotle, Canned","Oth comp specific to multiple gest, first trimester, fetus 2","€144,73",Beauty & Fitness,310,2023-07-06,2023-04-11
+311,"Red Snapper - Fillet, Skin On","Dislocation of unsp parts of lumbar spine and pelvis, init","€509,81",Gifts & Special Events,311,2023-01-15,2023-01-24
+312,"Pepper - Black, Ground",Poisoning by and adverse effect of heroin,"€626,64",aaaa,312,2023-12-07,2023-05-08
+313,Spice - Peppercorn Melange,"Oth disp fx of base of 1st MC bone, unsp hand, 7thD","€499,95",Food & Drink,313,2024-02-14,2024-06-09
+314,Chocolate Bar - Oh Henry,"Stress fracture, left foot, sequela","€582,63",aaaa,314,2024-01-17,2023-12-27
+315,Wine - Malbec Trapiche Reserve,Disorders of lysine and hydroxylysine metabolism,"€802,67",Attractions,315,2024-03-16,2024-05-23
+316,Haggis,"Eclampsia complicating pregnancy, unspecified trimester","€108,91",Arts & Entertainment,316,2023-06-05,2023-10-13
+317,"Juice - V8, Tomato","Displ transverse fx shaft of r tibia, 7thN","€741,86",aaaa,317,2024-06-15,2023-10-28
+318,Wine - Carmenere Casillero Del,"Noninfective disorders of pinna, bilateral","€716,97",Attractions,318,2023-10-02,2023-06-01
+319,"Oil - Truffle, White","Unsp car occupant injured in collision w van in traf, subs",,vvvv,319,2023-06-16,2023-01-06
+320,Lemon Balm - Fresh,"Nondisp fx of shaft of unsp clavicle, subs for fx w malunion","€93,89",Food & Drink,320,2023-12-25,2023-04-27
+321,Pepper - Orange,"Exhaustion due to exposure, sequela","€872,28",Gifts & Special Events,321,2024-03-28,2023-05-23
+322,Puree - Kiwi,"Displacement of internal fixation device of left femur, init","€533,30",Beauty & Fitness,322,2024-03-24,2024-02-16
+323,"Chicken - Base, Ultimate","Other osteonecrosis, left foot","€268,27",Gifts & Special Events,323,2024-04-27,2024-03-02
+324,"Beans - Fava, Canned","Sprain of calcaneofibular ligament of unsp ankle, init",,Attractions,324,2023-04-17,2023-06-19
+325,Wine - Prosecco Valdobienne,"Laceration of peroneal artery, left leg, sequela",,aaaa,325,2023-03-31,2024-02-04
+326,Cheese - Comte,"Lac w fb of r frnt wl of thorax w/o penet thor cavity, sqla","€676,19",vvvv,326,2023-06-23,2024-01-09
+327,Wood Chips - Regular,"Stress fracture, unspecified ankle, init encntr for fracture","€482,76",Beauty & Fitness,327,2023-02-22,2023-05-20
+328,Basil - Fresh,Mech compl of balloon (counterpulsation) device,"€163,56",vvvv,328,2023-12-18,2023-12-31
+329,Mushroom - King Eryingii,"Bucket-hndl tear of medial mensc, crnt injury, l knee, init","€869,72",vvvv,329,2024-04-05,2023-10-13
+330,Sesame Seed,Neoplasm of uncertain behavior of pineal gland,"€630,73",Beauty & Fitness,330,2024-04-06,2023-08-01
+331,Beef - Kobe Striploin,"Mech compl of unsp cardiac and vasc devices and implnt, init",,Food & Drink,331,2023-06-22,2024-04-09
+332,Tomatoes,"Oth osteopor w crnt path fx, l forearm, 7thG","€245,45",Beauty & Fitness,332,2023-04-19,2023-04-09
+333,Muffin - Bran Ind Wrpd,"Toxic effect of lacrimogenic gas, undetermined",,Food & Drink,333,2023-07-14,2024-02-12
+334,Ice Cream - Fudge Bars,Complete traumatic amputation of hand at wrist level,"€554,72",Arts & Entertainment,334,2023-03-09,2024-01-24
+335,Bagel - 12 Grain Preslice,"Papyraceous fetus, first trimester, fetus 3","€197,03",vvvv,335,2023-12-13,2024-01-10
+336,Oven Mitt - 13 Inch,"Disp fx of unsp tibial spine, init for clos fx","€980,41",Gifts & Special Events,336,2024-06-28,2023-07-10
+337,Hipnotiq Liquor,Multiple valve diseases,"€448,95",Arts & Entertainment,337,2024-03-27,2023-02-15
+338,Emulsifier,Intestinal malabsorption,"€708,31",vvvv,338,2024-03-25,2023-12-01
+339,Goldschalger,"Toxic effect of phenol and phenol homologues, undet, init","€312,09",vvvv,339,2023-01-04,2024-05-05
+340,Muskox - French Rack,"Displ spiral fx shaft of rad, l arm, 7thH","€422,53",Arts & Entertainment,340,2023-08-11,2023-03-04
+341,Lobster - Cooked,"Extremely low birth weight newborn, less than 500 grams","€831,34",Arts & Entertainment,341,2024-05-05,2023-03-06
+342,Lamb Leg - Bone - In Nz,"Other retinoschisis and retinal cysts, unspecified eye","€187,52",vvvv,342,2023-06-04,2023-02-03
+343,"Cheese - Mozzarella, Shredded","Unsp athscl type of bypass of the extremities, oth extremity","€199,86",Beauty & Fitness,343,2024-05-15,2023-05-24
+344,Wine - Coteaux Du Tricastin Ac,"Path fx in oth disease, l shoulder, subs for fx w delay heal","€685,61",Beauty & Fitness,344,2023-09-22,2023-09-23
+345,Jicama,"Wedge comprsn fx T5-T6 vertebra, subs for fx w delay heal","€93,47",Beauty & Fitness,345,2023-06-27,2023-10-29
+346,Island Oasis - Peach Daiquiri,Other juvenile arthritis,"€429,05",Beauty & Fitness,346,2023-04-17,2024-02-03
+347,Chicken - Leg / Back Attach,"Dislocation of tarsometatarsal joint of left foot, sequela",,Food & Drink,347,2023-06-27,2024-06-20
+348,Edible Flower - Mixed,"Idiopathic gout, unspecified shoulder","€814,28",Gifts & Special Events,348,2023-04-07,2024-05-16
+349,Nantucket - Kiwi Berry Cktl.,"Milt op involving biological weapons, civilian, init","€708,93",aaaa,349,2023-02-01,2023-06-27
+350,Lamb - Rack,"Unstable burst fracture of third thoracic vertebra, sequela","€646,74",Attractions,350,2024-01-07,2023-01-28
+351,Wine - Barolo Fontanafredda,Pedl cyc pasngr injured in nonclsn trnsp accident nontraf,"€498,69",Attractions,351,2023-10-07,2023-04-14
+352,"Roe - Lump Fish, Black","Burn of first degree of chest wall, initial encounter",,vvvv,352,2024-05-07,2023-01-07
+353,"Extract - Vanilla,artificial",Varicose veins of left lower extremity w ulcer of unsp site,"€364,30",Arts & Entertainment,353,2024-02-13,2023-11-10
+354,Lamb - Whole Head Off,Viral pharyngoconjunctivitis,,Gifts & Special Events,354,2024-02-28,2023-01-31
+355,Onions - Red,"Unsp bus occupant injured in clsn w unsp mv nontraf, init","€71,06",Attractions,355,2024-03-21,2023-10-05
+356,Calypso - Lemonade,Fall while being carried or supported by other persons,,Food & Drink,356,2023-06-25,2023-02-09
+357,"Veal - Inside Round / Top, Lean",Mess hall on military base as place,"€551,11",Arts & Entertainment,357,2023-01-06,2023-02-02
+358,Sea Urchin,"Displaced fracture of fifth metatarsal bone, right foot","€510,97",Attractions,358,2023-10-24,2023-05-14
+359,"Pepsi - Diet, 355 Ml","Unsp injury of musc/fasc/tend at forearm level, left arm","€791,23",Food & Drink,359,2023-09-22,2023-05-02
+360,Bread - Multigrain,"Disp fx of body of scapula, left shoulder, init for clos fx","€282,84",Food & Drink,360,2023-12-31,2023-06-10
+361,Quail - Jumbo,Pneumococcal meningitis,"€396,13",Beauty & Fitness,361,2023-03-28,2024-06-21
+362,"Soup - Beef Conomme, Dry","Nondisp fx of lateral epicondyl of unsp humer, 7thD","€928,81",Beauty & Fitness,362,2024-02-09,2024-06-10
+363,Cheese - Mozzarella,"Long labor, unspecified","€634,73",Food & Drink,363,2023-10-21,2024-05-27
+364,The Pop Shoppe - Black Cherry,Varicose veins of other sites,"€604,76",Food & Drink,364,2023-07-04,2023-08-09
+365,Olives - Stuffed,"Brown-Sequard syndrome at C1, sequela","€430,79",Food & Drink,365,2024-05-13,2024-01-06
+366,"Croissant, Raw - Mini","Complete traumatic amputation at right hip joint, subs","€915,84",aaaa,366,2023-05-07,2023-03-16
+367,Pear - Halves,"Malig neoplasm of prph nerves of unsp lower limb, inc hip","€885,32",Beauty & Fitness,367,2024-06-09,2023-12-21
+368,Longos - Chicken Cordon Bleu,Contusion of ring finger without damage to nail,"€418,61",Gifts & Special Events,368,2023-09-29,2023-08-26
+369,Bar Mix - Lime,"Foreign body granuloma of soft tissue, NEC, right shoulder","€418,01",Food & Drink,369,2023-05-05,2024-06-13
+370,Cheese - Cheddarsliced,Nondisplaced transverse fracture of shaft of right radius,"€725,11",Arts & Entertainment,370,2023-11-14,2024-06-27
+371,Cheese - Sheep Milk,Fracture of subcondylar process of left mandible,"€328,81",Attractions,371,2023-02-25,2024-01-04
+372,Scallops - 20/30,"Displaced spiral fx shaft of radius, left arm, sequela",,Arts & Entertainment,372,2023-07-12,2023-07-25
+373,Easy Off Oven Cleaner,"Pnctr w/o fb of abd wall, left lower q w penet perit cav","€998,33",Arts & Entertainment,373,2023-12-09,2023-08-03
+374,Wine - Fontanafredda Barolo,"Poisoning by emetics, assault","€900,47",Attractions,374,2024-02-20,2024-02-12
+375,Pheasants - Whole,Struck by softball,"€556,81",aaaa,375,2024-02-06,2023-03-23
+376,Island Oasis - Cappucino Mix,"Exposure to other nonionizing radiation, subs encntr","€45,51",Attractions,376,2024-06-29,2023-06-01
+377,Cake - Dulce De Leche,"Disorder of ligament, left shoulder","€466,11",Attractions,377,2023-05-30,2024-02-20
+378,Chip - Potato Dill Pickle,"Fx unsp phalanx of r rng fngr, subs for fx w nonunion",,Gifts & Special Events,378,2023-08-03,2023-10-05
+379,Pork Loin Cutlets,"Other injury of adrenal gland, subsequent encounter",,Arts & Entertainment,379,2023-05-23,2023-08-31
+380,Pastry - Lemon Danish - Mini,"External constriction of oral cavity, sequela","€341,28",vvvv,380,2023-01-04,2024-01-28
+381,"Pepper - Chillies, Crushed","Nondisp fx of shaft of left clavicle, subs for fx w malunion",,Food & Drink,381,2023-08-10,2023-11-15
+382,"Jam - Raspberry,jar","Poisoning by oth agents aff the cardiovasc sys, acc, init","€50,80",Arts & Entertainment,382,2024-01-20,2024-01-18
+383,"Oregano - Dry, Rubbed","Pnctr w/o foreign body of unsp part of head, sequela",,Food & Drink,383,2023-07-10,2023-09-18
+384,Plasticknivesblack,"Mech compl of int fix of bones of foot and toes, init","€149,28",Food & Drink,384,2024-02-18,2023-01-09
+385,Russian Prince,"Dislocation of distal end of left ulna, initial encounter","€822,88",vvvv,385,2023-09-11,2024-04-14
+386,Beef Ground Medium,Insect bite (nonvenomous) of nose,"€725,43",Food & Drink,386,2024-02-16,2023-01-26
+387,Soup - Campbells - Chicken Noodle,"Prsn brd/alit mtrcy injured pick-up truck, pk-up/van, init","€997,74",Gifts & Special Events,387,2024-04-06,2023-02-06
+388,Lettuce - Frisee,"Laceration w/o fb of unsp toe w/o damage to nail, init","€334,69",aaaa,388,2023-06-02,2024-03-15
+389,Nestea - Iced Tea,"Infantile & juv cortical/lamellar/zonular cataract, unsp eye","€168,78",vvvv,389,2023-03-19,2024-06-16
+390,Bread - Calabrese Baguette,"Galeazzi's fx unsp radius, subs for clos fx w delay heal","€552,30",Beauty & Fitness,390,2023-06-07,2024-05-25
+391,"Wine - White, Cooking","Burn of second degree of unspecified thigh, subs encntr","€744,65",Beauty & Fitness,391,2024-01-25,2024-02-14
+392,Banana,Minor laceration of innominate or subclavian artery,,Attractions,392,2023-11-08,2023-02-11
+393,Temperature Recording Station,"Ankylosis, left ankle","€716,11",Food & Drink,393,2024-01-30,2023-10-28
+394,Chocolate Liqueur - Godet White,"Drowning and submersion due to sailboat sinking, subs encntr",,Arts & Entertainment,394,2023-04-23,2024-02-29
+395,Icecream - Dstk Strw Chseck,"Polymyositis, organ involvement unspecified","€36,34",Beauty & Fitness,395,2024-06-24,2023-02-13
+396,Bread - Granary Small Pull,"Oth injury of blood vessel of left index finger, sequela","€453,35",vvvv,396,2024-04-18,2024-05-11
+397,Beer - Molson Excel,"Other specified arthritis, right knee","€514,78",Food & Drink,397,2023-07-07,2024-06-15
+398,Soup - Campbells Pasta Fagioli,"Other physeal fracture of right metatarsal, 7thB","€507,03",Arts & Entertainment,398,2023-11-04,2023-02-18
+399,Pear - Halves,"Foster-Kennedy syndrome, bilateral","€90,83",Food & Drink,399,2023-05-18,2023-02-08
+400,"Soup - Knorr, Chicken Noodle","Disp fx of distal phalanx of right thumb, init for opn fx","€429,40",Attractions,400,2024-01-19,2024-02-07
+401,Trueblue - Blueberry 12x473ml,Abrasion of oral cavity,"€198,82",Arts & Entertainment,401,2023-11-01,2023-06-26
+402,Coffee Decaf Colombian,"Toxic effect of venom of N & S American snake, slf-hrm, sqla","€596,32",aaaa,402,2023-12-16,2023-07-23
+403,"Croissant, Raw - Mini","Unsp fx head of unsp femr, 7thH","€995,34",aaaa,403,2023-04-14,2023-06-19
+404,Bandage - Fexible 1x3,"Disp fx of med cuneiform of r foot, subs for fx w delay heal","€679,04",Food & Drink,404,2023-03-06,2023-01-12
+405,Aspic - Light,"Pnctr w/o foreign body of scrotum and testes, sequela","€719,92",vvvv,405,2024-02-01,2023-01-19
+406,"Jam - Strawberry, 20 Ml Jar","Sltr-haris Type III physeal fx upper end of humer, unsp arm","€248,28",Food & Drink,406,2023-11-02,2023-07-01
+407,"Wine - White, Riesling, Semi - Dry","Poisoning by amphetamines, accidental, sequela","€380,50",Gifts & Special Events,407,2024-06-23,2023-04-05
+408,Beef - Cow Feet Split,"Underdosing of other psychotropic drugs, initial encounter","€836,97",Attractions,408,2023-05-28,2023-09-26
+409,Barley - Pearl,Pnctr w/o fb of front wall of thorax w/o penet thor cavity,,Beauty & Fitness,409,2023-09-06,2024-04-04
+410,"Sole - Dover, Whole, Fresh","Contus/lac/hem crblm w LOC w dth d/t oth cause bf consc,subs","€513,54",Beauty & Fitness,410,2024-01-22,2023-04-30
+411,Glove - Cutting,"Hepatomegaly with splenomegaly, not elsewhere classified",,Gifts & Special Events,411,2023-12-24,2024-06-28
+412,Dried Peach,Athscl autologous vein bypass of the extrm w intrmt claud,"€265,71",Arts & Entertainment,412,2024-06-02,2024-06-13
+413,Liquid Aminios Acid - Braggs,Di George's syndrome,"€333,76",Beauty & Fitness,413,2023-05-10,2024-02-04
+414,Eel Fresh,Vertebral artery compression syndromes,"€187,15",Food & Drink,414,2023-10-31,2024-06-17
+415,"Pepper - Julienne, Frozen",Contact with hot toaster,"€995,15",Arts & Entertainment,415,2024-03-02,2023-11-18
+416,"Tuna - Canned, Flaked, Light","Retained metal fragments, unspecified","€124,38",Gifts & Special Events,416,2023-08-24,2023-12-21
+417,Bread - Crusty Italian Poly,"Acute suppr otitis media w spon rupt ear drum, recur, l ear",,Arts & Entertainment,417,2023-07-14,2023-10-27
+418,"Spoon - Soup, Plastic","Paralytic calcification and ossification of muscle, thigh",,Food & Drink,418,2023-09-12,2023-01-11
+419,Wine - Magnotta - Pinot Gris Sr,"Unspecified nondisp fx of second cervical vertebra, sequela","€463,68",Arts & Entertainment,419,2023-06-27,2023-04-08
+420,Mace,"Passenger of special agri vehicle injured in traf, sequela","€551,11",vvvv,420,2023-01-01,2024-01-16
+421,"Sugar - Brown, Individual","Stress fracture, right hand, subs for fx w routn heal","€475,44",Gifts & Special Events,421,2023-02-05,2023-09-11
+422,Longos - Chicken Wings,Prolonged stay in weightless environment,"€765,17",aaaa,422,2023-12-08,2023-11-21
+423,Icecream - Dibs,Poisoning by and adverse effect of lysergide [LSD],"€69,06",aaaa,423,2023-10-19,2024-02-15
+424,Rice - Brown,"Inj musc/fasc/tend at wrs/hnd lv, left hand, sequela","€820,94",Food & Drink,424,2024-02-11,2023-12-14
+425,Wine - Barbera Alba Doc 2001,"Maternal care for oth abnlt of gravid uterus, second tri","€554,64",aaaa,425,2023-06-29,2023-08-03
+426,Tea - Vanilla Chai,"Burn of first degree of chin, sequela","€244,54",Arts & Entertainment,426,2023-06-20,2023-12-22
+427,Wine - Chenin Blanc K.w.v.,"Major laceration of right internal jugular vein, init encntr","€748,50",Gifts & Special Events,427,2023-09-07,2024-04-09
+428,Assorted Desserts,"Oth nondisp fx of 7th cervcal vert, subs for fx w delay heal",,Attractions,428,2023-02-17,2023-02-20
+429,Plate Foam Laminated 9in Blk,"Equatorial staphyloma, left eye","€119,99",Gifts & Special Events,429,2023-02-17,2023-06-12
+430,Pur Value,"Insect bite of unspecified part of neck, subs encntr","€92,93",Gifts & Special Events,430,2023-06-24,2024-02-01
+431,Munchies Honey Sweet Trail Mix,"Assault by human bite, subsequent encounter","€363,00",aaaa,431,2024-02-19,2024-03-24
+432,Apricots - Halves,"Chronic gout due to renal impairment, left hand, w/o tophus","€256,99",Attractions,432,2023-12-28,2023-02-19
+433,Flour - Cake,"Unsp inj flexor musc/fasc/tend r mid fngr at forarm lv, init",,aaaa,433,2024-03-17,2023-03-02
+434,"Nut - Hazelnut, Whole","Unspecified fracture of right wrist and hand, sequela",,Beauty & Fitness,434,2023-12-14,2023-10-12
+435,Pastry - French Mini Assorted,Puncture wound without foreign body of left hand,"€631,26",Attractions,435,2023-06-28,2023-05-09
+436,Apple - Northern Spy,"Disp fx of lateral condyle of r tibia, 7thN",,Gifts & Special Events,436,2023-12-27,2023-05-31
+437,Chips Potato Reg 43g,"Cystic meniscus, other medial meniscus","€337,24",vvvv,437,2023-07-15,2024-02-10
+438,Beef - Prime Rib Aaa,"Frostbite w tissue necrosis of left hip and thigh, init","€982,72",Gifts & Special Events,438,2023-01-01,2023-03-25
+439,Wine - Trimbach Pinot Blanc,"Occup of bus injured in nonclsn trnsp accident nontraf, init","€563,79",Beauty & Fitness,439,2023-09-11,2023-11-20
+440,Soho Lychee Liqueur,"Unsp open wound of r rng fngr w/o damage to nail, subs","€25,53",Food & Drink,440,2023-02-26,2024-05-26
+441,Petite Baguette,"Toxic effect of copper and its compounds, self-harm",,aaaa,441,2024-02-09,2024-01-21
+442,"Schnappes - Peach, Walkers","Toxic effect of thallium, intentional self-harm, sequela","€125,79",Beauty & Fitness,442,2024-05-03,2023-11-05
+443,Soup Campbells - Italian Wedding,Maternal care for vertical scar from previous cesarean del,"€245,17",aaaa,443,2023-09-28,2023-01-20
+444,Lettuce - Lolla Rosa,"Infect/inflm reaction due to int fix of right fibula, subs","€825,04",Food & Drink,444,2023-07-22,2023-08-17
+445,Beef - Top Sirloin,Other human herpesvirus infection,"€347,95",Food & Drink,445,2024-06-02,2023-07-30
+446,Lemon Tarts,Superficial injury of elbow and forearm,"€611,64",aaaa,446,2024-06-29,2023-12-22
+447,Bread - Dark Rye,"Poisoning by expectorants, intentional self-harm, init","€831,41",Food & Drink,447,2023-12-19,2023-04-22
+448,Coffee - Decaffeinato Coffee,"Displ artic fx head of r femr, 7thH","€367,85",Arts & Entertainment,448,2023-07-08,2024-03-14
+449,Cake - Lemon Chiffon,"Pyogenic arthritis, unspecified","€522,77",Gifts & Special Events,449,2023-10-14,2023-12-27
+450,Coconut Milk - Unsweetened,"Pnctr w fb of right eyelid and periocular area, init","€252,17",Beauty & Fitness,450,2023-04-23,2023-08-11
+451,Tea - Herbal Orange Spice,Venous complications and hemorrhoids in pregnancy,"€959,82",vvvv,451,2023-09-13,2023-10-03
+452,Tart - Pecan Butter Squares,"Oth fracture of right talus, init encntr for closed fracture","€408,68",Food & Drink,452,2023-12-25,2024-05-12
+453,Pepper - Scotch Bonnet,"Nondisp transverse fx unsp patella, 7thC","€234,51",Attractions,453,2023-05-30,2024-03-18
+454,Pork - Backs - Boneless,Varicose veins of lower extremities with ulcer,"€532,15",Arts & Entertainment,454,2023-08-20,2023-11-14
+455,"Nut - Almond, Blanched, Ground",Suberosis,"€653,94",Food & Drink,455,2024-03-07,2023-05-22
+456,Calypso - Pineapple Passion,Corrosion of first degree of forehead and cheek,"€875,18",vvvv,456,2024-02-07,2023-09-11
+457,Potato - Sweet,Insect bite (nonvenomous) of lip and oral cavity,"€164,85",Gifts & Special Events,457,2023-06-10,2024-04-03
+458,Chocolate - White,"Bent bone of left ulna, init encntr for closed fracture","€52,72",aaaa,458,2023-09-06,2023-06-18
+459,Ecolab - Solid Fusion,Lead-induced gout,"€347,67",Attractions,459,2023-12-13,2023-11-22
+460,Lettuce - Red Leaf,"Mech compl of other urinary devices and implants, sequela","€948,32",Arts & Entertainment,460,2023-08-12,2023-01-12
+461,Pork - Hock And Feet Attached,"Oth fx shaft of unsp ulna, 7thJ","€834,43",Gifts & Special Events,461,2024-04-28,2023-06-16
+462,Potatoes - Idaho 100 Count,"Air embolism in pregnancy, second trimester","€642,30",vvvv,462,2023-11-22,2023-04-10
+463,Smoked Tongue,"Idiopathic chronic gout, multiple sites, without tophus","€104,13",Food & Drink,463,2024-01-10,2024-04-15
+464,Banana Turning,Penetrating wound without foreign body of unsp eyeball,"€72,63",Attractions,464,2023-04-20,2023-01-30
+465,"Star Anise, Whole","Sprain of other part of left wrist and hand, sequela","€772,37",aaaa,465,2023-02-21,2024-02-15
+466,Chocolate - Dark Callets,"Other contact with other marine mammals, sequela","€44,76",aaaa,466,2024-06-02,2024-03-04
+467,Wine - Montecillo Rioja Crianza,"Unsp intracap fx r femr, 7thR","€279,30",vvvv,467,2023-09-07,2023-05-12
+468,Sour Puss Sour Apple,Drown due to falling or jumping from crushed passenger ship,"€599,99",aaaa,468,2024-05-18,2023-08-05
+469,"Bread - Roll, Whole Wheat",Cereb infrc due to unsp occls or stenosis of cerebral artery,"€567,53",aaaa,469,2024-02-11,2024-04-06
+470,Muffin - Zero Transfat,"Corrosion of unsp degree of unspecified forearm, init encntr","€683,43",Gifts & Special Events,470,2024-05-12,2023-06-04
+471,Puff Pastry - Slab,"Disp fx of hook pro of hamate bone, l wrs, 7thK","€705,92",Food & Drink,471,2023-07-23,2023-05-06
+472,Garbage Bag - Clear,Pnctr w/o foreign body of right thumb w/o damage to nail,"€428,38",Attractions,472,2024-01-10,2023-08-06
+473,Pear - Asian,Unspecified fracture of navicular bone of right wrist,"€275,85",Attractions,473,2023-03-24,2024-05-03
+474,Tea - Orange Pekoe,Corrosion of second degree of left knee,"€991,26",Food & Drink,474,2024-05-31,2023-06-20
+475,Wine - Semi Dry Riesling Vineland,"Sltr-haris Type III physl fx upr end rad, unsp arm, 7thK","€259,01",Beauty & Fitness,475,2023-05-25,2023-01-24
+476,Broom Handle,"Nondisp intertroch fx r femr, 7thR","€334,27",Beauty & Fitness,476,2023-04-08,2024-06-14
+477,Container - Hngd Cll Blk 7x7x3,Other and unsp diseases of blood and blood-forming organs,"€526,20",aaaa,477,2024-01-17,2023-09-17
+478,Bread Base - Goodhearth,"Displ spiral fx shaft of unsp tibia, 7thK","€704,58",vvvv,478,2024-04-20,2024-06-18
+479,Coffee - Decafenated,"Disp fx of ant pro of r calcaneus, subs for fx w nonunion","€142,68",Attractions,479,2024-03-28,2024-03-10
+480,Cheese - Sheep Milk,"Actvty,oth w exter property & land maint, bldg and construct","€400,97",Attractions,480,2023-09-05,2024-03-14
+481,Cheese - Gouda Smoked,"Sltr-haris Type I physl fx upper end humer, right arm, sqla","€95,17",Food & Drink,481,2023-11-26,2024-03-06
+482,Ice Cream - Turtles Stick Bar,Subluxation of unsp interphalangeal joint of r idx fngr,"€641,30",Food & Drink,482,2023-09-16,2023-04-06
+483,Sugar Thermometer,"Strain of muscle and tendon of unsp wall of thorax, sequela",,Arts & Entertainment,483,2024-03-01,2023-11-02
+484,"Lamb - Shoulder, Boneless","Poisoning by oth estrogens and progstrn, undetermined, init","€262,33",Attractions,484,2023-06-08,2023-09-17
+485,Longos - Chicken Wings,"External constriction of left forearm, subsequent encounter","€705,40",aaaa,485,2023-03-20,2024-01-19
+486,Goulash Seasoning,Adverse effect of unspecified systemic antibiotic,"€874,77",Gifts & Special Events,486,2023-04-11,2024-03-17
+487,Glass - Juice Clear 5oz 55005,Burn of third degree of ankle,"€461,70",aaaa,487,2024-05-31,2024-06-27
+488,Sauce - Roasted Red Pepper,Unsp injury of intrinsic msl/tnd at ankle and foot level,"€172,11",Attractions,488,2023-02-15,2023-06-14
+489,Curry Powder,"Other injury of ovary, unilateral, initial encounter","€716,29",Attractions,489,2023-09-14,2024-04-29
+490,Beef - Rib Eye Aaa,Rheumatoid lung disease with rheumatoid arthritis of hand,"€706,99",Beauty & Fitness,490,2023-05-05,2023-07-07
+491,"Nut - Almond, Blanched, Whole","Toxic eff of halgn deriv of aliphatic hydrocrb, asslt, init",,aaaa,491,2023-10-14,2023-08-24
+492,Cheese - Sheep Milk,"Inj musc/fasc/tend long head of biceps, left arm",,Arts & Entertainment,492,2024-02-12,2024-02-16
+493,"Split Peas - Yellow, Dry","Strain musc/tend ant grp at low leg level, left leg, sequela","€498,33",Food & Drink,493,2023-03-23,2023-04-16
+494,"Wine - White, Ej Gallo","Chronic gout due to renal impairment, wrist","€104,33",Gifts & Special Events,494,2024-01-16,2023-01-10
+495,Cookies - Amaretto,Oth malignant neoplasm of skin of oth and unsp parts of face,"€737,89",Beauty & Fitness,495,2023-12-29,2024-04-06
+496,Veal - Leg,Open wound of unspecified external genital organs,"€981,75",Food & Drink,496,2023-03-01,2024-04-04
+497,"Carrots - Mini, Stem On","Maternal care for fetal problem, unsp, unsp tri, fetus 1","€436,22",Arts & Entertainment,497,2023-06-27,2023-06-11
+498,"Nut - Pecan, Pieces","Occ of anml-drn vehicle inj in clsn w statnry object, subs","€733,65",aaaa,498,2024-02-10,2023-12-23
+499,"Bread - White, Sliced",Ectopic tissue in lung,"€508,35",Attractions,499,2023-11-11,2023-02-11
+500,"Vodka - Hot, Lnferno","Poisoning by unspecified general anesthetics, undetermined","€862,06",Beauty & Fitness,500,2023-10-22,2024-02-25
+501,The Pop Shoppe - Cream Soda,"Unspecified subluxation of right ring finger, sequela","€400,92",vvvv,501,2023-02-17,2023-05-24
+502,"Cheese - Romano, Grated","Nondisp fx of olecran pro w intartic extn unsp ulna, 7thH","€262,65",vvvv,502,2023-09-08,2023-12-24
+503,"Cookies - Oreo, 4 Pack","Disorders of meninges, not elsewhere classified","€78,38",aaaa,503,2024-01-23,2023-08-01
+504,Beer - Corona,"Perst migrn aura w/o cereb infrc, not ntrct, w/o stat migr","€976,81",Attractions,504,2024-01-25,2024-03-22
+505,Ice Cream Bar - Rolo Cone,"Nondisp transverse fx shaft of unsp rad, 7thC","€379,12",Gifts & Special Events,505,2023-06-08,2023-05-24
+506,Table Cloth 62x120 White,Other specified viral infections of central nervous system,"€347,84",Beauty & Fitness,506,2024-03-09,2023-04-15
+507,Energy Drink Red Bull,"Nondisp midcervical fx unsp femr, 7thK","€63,48",vvvv,507,2023-03-27,2023-06-22
+508,Soup Bowl Clear 8oz92008,Stimulant laxatives,"€533,32",Arts & Entertainment,508,2023-02-07,2023-04-02
+509,Bar Energy Chocchip,Athscl unsp type bypass of the left leg w ulcer of unsp site,"€284,01",vvvv,509,2023-04-30,2023-02-13
+510,Wooden Mop Handle,"Toxic effect of carbon monoxide from unsp source, assault","€498,74",Attractions,510,2023-08-06,2023-07-02
+511,Veal - Nuckle,Neonatal cerebral leukomalacia,"€249,01",Food & Drink,511,2023-02-25,2023-07-10
+512,Smoked Tongue,"Myelodysplastic syndrome, unspecified","€366,91",Arts & Entertainment,512,2024-04-26,2023-05-21
+513,Salt - Seasoned,"Nondisp simp suprcndl fx w/o intrcndl fx r humer, 7thK","€25,94",Beauty & Fitness,513,2023-03-17,2024-02-03
+514,"Lamb - Shoulder, Boneless","Burn third deg of unsp site unsp lower limb, ex ank/ft, subs","€488,70",Food & Drink,514,2023-09-27,2024-01-24
+515,"Tart Shells - Savory, 3",Animl-ridr or occ of anml-drn veh inj in clsn w rail trn/veh,"€230,08",Attractions,515,2023-11-14,2023-01-10
+516,Chicken - Livers,"Mech compl of coronary artery bypass graft, subs encntr","€892,91",Beauty & Fitness,516,2024-04-01,2023-06-09
+517,Table Cloth 62x120 Colour,"Other otosclerosis, right ear","€62,21",Food & Drink,517,2024-06-07,2024-06-09
+518,"Pasta - Fusili, Dry","Harada's disease, right eye",,Arts & Entertainment,518,2023-12-07,2024-03-03
+519,Isomalt,"Other injury of spleen, sequela","€666,20",Beauty & Fitness,519,2024-06-05,2023-06-20
+520,Coffee - Decafenated,Encounter for fertility preservation counseling,"€817,47",Attractions,520,2024-06-11,2024-03-17
+521,Pepper - Green Thai,Displaced fracture of shaft of other metacarpal bone,"€290,49",Gifts & Special Events,521,2024-05-22,2023-04-08
+522,Garlic - Peeled,"Oth athscl nonbiol bypass of the extremities, right leg","€555,40",Beauty & Fitness,522,2023-11-12,2023-11-06
+523,Lobster - Cooked,Primary pulmonary hypertension,"€530,30",Gifts & Special Events,523,2023-08-27,2024-03-14
+524,Pork - Ham Hocks - Smoked,"Strain intrns musc/fasc/tend l idx fngr at wrs/hnd lv, subs","€90,80",Attractions,524,2023-03-02,2023-08-07
+525,Flax Seed,"Subluxation of T3/T4 thoracic vertebra, initial encounter","€18,49",Attractions,525,2023-09-01,2023-05-12
+526,"Iced Tea - Lemon, 460 Ml","Chronic osteomyelitis w draining sinus, unsp ankle and foot","€194,27",Beauty & Fitness,526,2024-05-27,2023-01-09
+527,Flour - Fast / Rapid,"External constriction, left great toe, initial encounter",,Food & Drink,527,2023-07-04,2024-02-24
+528,Beer - Sleemans Honey Brown,"Unsp car occ injured in clsn w pick-up truck nontraf, init","€522,76",Attractions,528,2023-03-21,2023-12-11
+529,Sesame Seed,Unspecified open wound of foot,"€693,60",aaaa,529,2024-05-27,2023-08-08
+530,"Crab - Claws, Snow 16 - 24",Infantile (acute) (chronic) eczema,"€488,96",Beauty & Fitness,530,2024-03-24,2024-02-26
+531,Glaze - Apricot,Dislocation of left scapula,"€404,34",Food & Drink,531,2024-01-30,2024-03-15
+532,Pastry - Apple Large,"Unsp pedl cyclst inj in clsn w 2/3-whl mv nontraf, sequela","€871,69",aaaa,532,2023-06-17,2023-09-25
+533,Nantucket - 518ml,"Poisoning by therapeutic gases, undetermined","€394,12",Arts & Entertainment,533,2024-01-06,2023-04-04
+534,Curry Powder,"Superficial foreign body of right back wall of thorax, init","€651,19",Arts & Entertainment,534,2023-10-06,2023-08-23
+535,Cheese - Grana Padano,Contact with and (suspected) exposure to viral hepatitis,"€805,48",Gifts & Special Events,535,2023-07-21,2023-07-17
+536,"Oranges - Navel, 72",Pedestrian injured in collision w nonmtr vehicle in traf,"€209,68",aaaa,536,2023-02-11,2023-01-18
+537,Turnip - White,"Oth intartic fx low end r rad, 7thE","€260,78",vvvv,537,2024-06-30,2023-05-09
+538,Bread - Mini Hamburger Bun,"Unsp traum displ spondylolysis of 4th cervcal vert, 7thD","€323,48",Beauty & Fitness,538,2023-02-26,2024-01-19
+539,"Beef - Roasted, Cooked","Inj superficial palmar arch of right hand, init encntr","€758,65",Gifts & Special Events,539,2023-08-01,2023-06-19
+540,Vinegar - Rice,"Nondisp fx of coronoid pro of unsp ulna, 7thK","€63,60",Beauty & Fitness,540,2023-03-26,2023-01-08
+541,Sping Loaded Cup Dispenser,"Erosn implnt vaginal mesh to surrnd org/tiss, subs","€736,34",Arts & Entertainment,541,2024-05-15,2023-05-24
+542,Beans - Fava Fresh,"Ischiocapsular ligament sprain of unsp hip, init encntr","€577,44",vvvv,542,2023-01-11,2023-05-04
+543,Muffin - Mix - Mango Sour Cherry,"Oth tear of medial mensc, current injury, unsp knee, sequela","€951,84",Gifts & Special Events,543,2024-02-16,2024-06-09
+544,Bagelers - Cinn / Brown,Other contact with nonvenomous snake,"€178,11",Gifts & Special Events,544,2023-04-27,2024-04-15
+545,Beer - Mcauslan Apricot,"Stress fracture, right shoulder, sequela","€163,61",Gifts & Special Events,545,2023-03-09,2023-10-09
+546,Cheese - Goat,"Laceration w foreign body of oth part of neck, subs encntr","€455,28",Beauty & Fitness,546,2023-04-04,2024-07-01
+547,Chinese Foods - Pepper Beef,Other disorders of optic disc,"€134,18",Gifts & Special Events,547,2024-04-17,2023-06-28
+548,Pepper - Jalapeno,"Oth fx low end r tibia, 7thE","€821,49",Attractions,548,2023-10-18,2024-03-21
+549,"Chocolate - Milk, Callets",Fracture of coronoid process of right mandible,"€905,09",Attractions,549,2024-06-13,2023-10-10
+550,Long Island Ice Tea,Displaced fracture of medial malleolus of right tibia,"€831,72",Beauty & Fitness,550,2023-12-19,2024-03-09
+551,Bagels Poppyseed,"Idiopathic corneal edema, unspecified eye","€656,36",Attractions,551,2024-06-12,2024-06-28
+552,Squash - Acorn,Drug-induced pemphigus,"€524,88",Arts & Entertainment,552,2023-02-24,2024-05-13
+553,Longos - Grilled Chicken With,"Corrosion of second degree of right wrist, initial encounter","€500,24",Attractions,553,2023-11-29,2023-05-14
+554,Kellogs Cereal In A Cup,"Oth malignant neoplasm skin/ unsp upper limb, inc shoulder","€10,34",Attractions,554,2023-09-12,2023-10-16
+555,"Veal - Inside, Choice","Person outside hv veh inj in nonclsn trnsp acc nontraf, init","€835,70",vvvv,555,2024-02-07,2024-04-15
+556,Table Cloth 91x91 Colour,"Sltr-haris Type II physl fx upr end l tibia, 7thD","€380,75",vvvv,556,2024-05-13,2023-06-03
+557,Juice - Mango,Prsnl history of extracorporeal membrane oxygenation (ECMO),"€935,81",Arts & Entertainment,557,2023-05-07,2023-12-05
+558,Pepper Squash,"Unsp superficial injuries of breast, unspecified breast","€115,69",vvvv,558,2024-05-22,2024-06-13
+559,Veal - Bones,Ankylosing spondylitis,"€948,14",Attractions,559,2023-09-02,2024-04-29
+560,Cheese - Asiago,Viral myocarditis,"€128,87",Food & Drink,560,2023-03-05,2023-09-11
+561,Cheese - Augre Des Champs,"Subluxation of proximal interphaln joint of left thumb, subs","€210,02",Food & Drink,561,2024-04-18,2023-02-07
+562,Cocoa Powder - Dutched,"Unsp fracture of T5-T6 vertebra, subs for fx w delay heal","€306,87",Arts & Entertainment,562,2024-01-13,2024-04-03
+563,Kale - Red,"Oth soft tissue disord related to use/pressure, right thigh","€336,36",vvvv,563,2024-02-16,2024-02-15
+564,Container - Clear 32 Oz,"Pathological fracture, left hand, subs for fx w malunion","€647,08",Gifts & Special Events,564,2023-07-17,2023-10-10
+565,Longos - Chicken Cordon Bleu,"Laceration of musc/fasc/tend at forearm level, left arm","€642,51",Attractions,565,2024-01-14,2024-06-19
+566,Mackerel Whole Fresh,"Fracture of unspecified part of body of right mandible, 7thD","€467,96",Arts & Entertainment,566,2023-10-17,2024-02-01
+567,"Iced Tea - Lemon, 460 Ml","Legal intervnt involving unsp sharp objects, suspect injured","€632,74",Attractions,567,2023-08-21,2024-03-10
+568,Bread - Raisin Walnut Pull,"Galeazzi's fx unsp rad, subs for opn fx type I/2 w malunion","€492,25",vvvv,568,2023-12-29,2023-03-15
+569,Eggplant - Regular,"Strain intrns musc/fasc/tend l mid fngr at wrs/hnd lv, subs","€149,17",Beauty & Fitness,569,2023-04-15,2023-07-22
+570,"Veal - Brisket, Provimi, Bone - In",Oth parlyt syndrome fol oth ntrm intcrn hemor aff unsp side,"€807,73",Attractions,570,2023-11-07,2023-01-28
+571,Bread - White Mini Epi,Sprain of toe,"€698,32",aaaa,571,2024-03-05,2023-10-25
+572,Muffin - Mix - Bran And Maple 15l,Nontraumatic subarachnoid hemorrhage from basilar artery,"€849,24",vvvv,572,2023-06-18,2023-01-18
+573,Oil - Macadamia,"Infect/inflm react due to int fix of unsp bone of arm, init",,Gifts & Special Events,573,2024-05-02,2023-07-07
+574,Drambuie,"Disp fx of body of hamate bone, unsp wrs, 7thD","€858,15",Food & Drink,574,2024-01-21,2023-10-05
+575,Turnip - Wax,Spermatocele of epididymis,,aaaa,575,2024-06-10,2023-03-09
+576,Sobe - Cranberry Grapefruit,Laceration w/o foreign body of left thumb w damage to nail,"€530,19",vvvv,576,2024-04-11,2023-05-13
+577,Chocolate - Liqueur Cups With Foil,"Injury of l int carotid, intcr w LOC of 1-5 hrs 59 min, subs","€67,60",Arts & Entertainment,577,2024-01-18,2024-02-20
+578,Turkey - Ground. Lean,"Type 1 diabetes with stable prolif diabetic rtnop, right eye","€250,34",vvvv,578,2023-11-19,2024-05-01
+579,Sprouts - Brussel,"Laceration of muscle and tendon of head, initial encounter","€537,13",Attractions,579,2024-03-14,2023-02-15
+580,Evaporated Milk - Skim,"Skeletal fluorosis, left hand","€2,99",Food & Drink,580,2023-03-02,2023-11-21
+581,Bagels Poppyseed,"Torus fx upper end of left radius, subs for fx w nonunion","€548,38",vvvv,581,2023-08-18,2024-03-24
+582,Soup - French Can Pea,"Fx unsp phalanx of r rng fngr, subs for fx w nonunion","€70,64",Arts & Entertainment,582,2023-06-25,2023-11-24
+583,Wine - Barossa Valley Estate,"Corrosion of second degree of nose (septum), sequela","€567,56",Gifts & Special Events,583,2024-03-13,2023-10-25
+584,"Beef - Baby, Liver",Other dissociative and conversion disorders,"€551,09",Gifts & Special Events,584,2024-06-24,2023-02-03
+585,Melon - Honey Dew,"Unsp car occupant injured in clsn w unsp mv in traf, sequela","€680,12",aaaa,585,2024-05-02,2023-07-13
+586,Vinegar - White Wine,"Traumatic rupture of oth ligament of right wrist, subs","€970,24",Arts & Entertainment,586,2023-07-21,2024-06-27
+587,Nantucket - Orange Mango Cktl,"Superficial foreign body, right lower leg, subs encntr","€451,03",aaaa,587,2024-04-03,2024-03-12
+588,Lettuce - Baby Salad Greens,"Secondary osteoarthritis, unspecified wrist","€269,61",Food & Drink,588,2023-05-06,2023-04-03
+589,Cleaner - Comet,"Recurrent dislocation, unspecified finger","€390,29",Arts & Entertainment,589,2023-07-22,2023-08-27
+590,Wine - Barossa Valley Estate,"Nondisp trimalleol fx unsp low leg, 7thN","€839,30",Arts & Entertainment,590,2023-09-22,2024-05-05
+591,Bagel - Ched Chs Presliced,Excessive horizontal overlap,"€319,60",Beauty & Fitness,591,2023-08-26,2023-03-14
+592,Cassis,Unspecified superficial injury of knee,"€803,73",Gifts & Special Events,592,2023-12-17,2024-05-09
+593,Taro Leaves,"Poisoning by antithyroid drugs, undetermined","€167,28",Beauty & Fitness,593,2023-07-29,2024-06-25
+594,Calypso - Pineapple Passion,"Flexion deformity, unspecified finger joints","€925,19",Arts & Entertainment,594,2024-06-23,2024-03-08
+595,Tomatoes - Orange,"Other injury of ascending colon, subsequent encounter","€729,57",aaaa,595,2023-01-08,2024-01-29
+596,"Red Snapper - Fresh, Whole","Other specified disorders of synovium, right ankle and foot","€161,96",Arts & Entertainment,596,2023-12-16,2024-04-14
+597,Nori Sea Weed,Postproc hematoma of an endo sys org fol an endo sys proc,"€357,40",vvvv,597,2024-01-07,2024-01-20
+598,Chicken - Soup Base,Malignant neoplasm of short bones of unspecified lower limb,"€995,97",Food & Drink,598,2023-03-18,2024-01-12
+599,Chocolate - Liqueur Cups With Foil,"Insect bite (nonvenomous), right lesser toe(s), init encntr",,Attractions,599,2023-11-03,2024-02-15
+600,Beans - Wax,"Unspecified corneal ulcer, unspecified eye","€616,25",Gifts & Special Events,600,2024-04-18,2023-05-22
+601,Nectarines,Malignant neoplasm of body of pancreas,"€223,14",Attractions,601,2023-08-29,2023-01-03
+602,"Tomatoes - Plum, Canned","Stress fracture, unspecified finger(s)",,Attractions,602,2024-06-15,2024-05-27
+603,"Clams - Littleneck, Whole",Torsion of right fallopian tube,"€762,86",vvvv,603,2024-02-07,2024-03-11
+604,"Pepper - Red, Finger Hot","Minor laceration of unsp internal jugular vein, subs encntr","€415,44",Attractions,604,2023-08-18,2023-08-20
+605,"Lid - 10,12,16 Oz","Laceration without foreign body, right hip","€414,84",Beauty & Fitness,605,2023-05-09,2024-06-25
+606,Raspberries - Fresh,Respiratory distress of newborn,"€303,34",Food & Drink,606,2023-06-15,2023-04-17
+607,Thermometer Digital,Infective pericarditis,,vvvv,607,2024-03-14,2023-03-03
+608,Wine - Beaujolais Villages,"Other physeal fracture of upper end of humerus, left arm","€841,89",aaaa,608,2023-10-30,2023-04-30
+609,Cocktail Napkin Blue,"Displ commnt fx unsp patella, subs for clos fx w nonunion","€370,94",vvvv,609,2024-02-14,2023-02-27
+610,"Mustard - Dry, Powder",Unspecified sprain of right foot,"€963,48",Food & Drink,610,2023-05-17,2023-11-13
+611,Plasticforkblack,Unspecified superficial keratitis,"€457,93",Gifts & Special Events,611,2023-01-19,2023-12-11
+612,Vaccum Bag 10x13,"Nondisp fx of shaft of 4th MC bone, r hand, 7thK","€268,76",Gifts & Special Events,612,2023-11-28,2024-05-25
+613,Lychee - Canned,"Injury of unspecified uterine artery, subsequent encounter","€772,32",Gifts & Special Events,613,2023-03-31,2023-10-17
+614,Wine - Pinot Noir Latour,"Pathological fracture, right toe(s), subs for fx w malunion","€139,78",Food & Drink,614,2024-02-25,2023-02-02
+615,Pork - Ground,"Laceration w/o fb of unsp toe(s) w damage to nail, subs","€284,66",vvvv,615,2023-09-06,2023-05-26
+616,Sobe - Cranberry Grapefruit,"Minor laceration of femoral artery, left leg, init encntr","€917,59",vvvv,616,2024-04-05,2023-05-09
+617,"Soup - Clam Chowder, Dry Mix","Tox eff of corrosv alkalis and alk-like substnc, asslt, subs","€349,42",Gifts & Special Events,617,2024-04-06,2024-04-17
+618,Bread - Italian Roll With Herbs,"Unsp injury of unsp tibial artery, right leg, subs encntr","€418,92",Attractions,618,2023-02-16,2023-05-08
+619,"Wine - White, Colubia Cresh","Laceration with foreign body of unsp wrist, init encntr","€478,53",aaaa,619,2023-10-01,2024-06-22
+620,Wine - Carmenere Casillero Del,Labor and delivery complicated by other cord complications,"€888,17",Attractions,620,2024-02-11,2023-02-06
+621,Pepsi - 600ml,Other specified cerebrovascular diseases,"€376,63",Food & Drink,621,2023-10-13,2024-05-29
+622,Okra,"Unsp fx head of unsp femr, 7thJ","€27,54",Attractions,622,2023-01-18,2024-02-23
+623,Muffin Mix - Raisin Bran,"Acute embolism and thrombosis of axillary vein, bilateral","€167,13",Food & Drink,623,2023-05-19,2023-06-01
+624,Gatorade - Lemon Lime,"Maxillary fracture, unspecified side, 7thB","€838,81",Attractions,624,2023-03-21,2023-08-21
+625,Beets,"Strain of unsp musc/fasc/tend at forarm lv, right arm, init","€202,81",aaaa,625,2024-03-22,2023-05-01
+626,"Fish - Soup Base, Bouillon",Coxa plana,"€432,18",aaaa,626,2023-12-26,2024-05-31
+627,Calvados - Boulard,"Nondisp fx of unsp tibial tuberosity, 7thB","€21,24",Beauty & Fitness,627,2024-02-16,2023-05-03
+628,"Pork - Bacon, Double Smoked","Unsp inj flexor musc/fasc/tend finger at wrs/hnd lv, init","€173,06",Arts & Entertainment,628,2023-09-14,2023-08-31
+629,Lamb Tenderloin Nz Fr,Dislocation of proximal interphaln joint of l little finger,"€788,10",Food & Drink,629,2023-07-29,2023-10-02
+630,Muffin Mix - Carrot,"Dislocation of acromioclav jt, greater than 200% displacmnt","€940,79",Attractions,630,2023-05-09,2024-02-07
+631,Cranberry Foccacia,Bunion of left foot,,Gifts & Special Events,631,2023-06-09,2023-02-26
+632,Drambuie,"Other stimulant use, unspecified","€612,52",Arts & Entertainment,632,2024-05-14,2023-02-08
+633,"Soup - Clam Chowder, Dry Mix",Other osteonecrosis of right ulna,"€741,49",Gifts & Special Events,633,2023-07-08,2024-06-06
+634,Eggplant - Baby,"Sprain of ligaments of lumbar spine, subsequent encounter","€617,46",Gifts & Special Events,634,2023-12-06,2023-06-17
+635,Sesame Seed,"Displacement of aortic (bifurcation) graft, init","€898,95",Arts & Entertainment,635,2023-02-18,2024-03-18
+636,English Muffin,"Poisoning by 4-Aminophenol derivatives, undetermined, subs","€389,13",Beauty & Fitness,636,2023-06-17,2023-02-11
+637,Appetizer - Shrimp Puff,"Unsp fx shaft of l femr, 7thN","€193,13",Arts & Entertainment,637,2023-11-22,2023-12-03
+638,Sprouts - Baby Pea Tendrils,"False labor before 37 completed weeks of gest, unsp tri","€714,75",Attractions,638,2024-05-09,2024-01-01
+639,Garlic - Elephant,"Unsp trochan fx unsp femr, 7thN","€387,64",Food & Drink,639,2024-03-26,2023-02-07
+640,Flower - Commercial Spider,Inhalation of hot air and gases,"€684,12",Food & Drink,640,2023-02-16,2024-05-23
+641,Pan Grease,"Blister (nonthermal), right lower leg","€164,11",vvvv,641,2024-01-10,2024-04-29
+642,Okra,Late syphilis,"€107,09",Arts & Entertainment,642,2023-05-11,2023-02-02
+643,Wine - Pinot Noir Stoneleigh,Other abnormal cytological findings on specimens from anus,"€871,25",Arts & Entertainment,643,2023-09-06,2023-10-21
+644,Rootbeer,Unspecified open wound of lower back and pelvis,,vvvv,644,2023-05-30,2023-01-07
+645,Bread - Italian Roll With Herbs,"Nondisp fx of epiphy (separation) (upper) of l femr, 7thP","€770,05",vvvv,645,2023-08-28,2024-02-27
+646,Sauce - Ranch Dressing,Unspecified injury of other blood vessels at lower leg level,"€37,32",Gifts & Special Events,646,2024-02-29,2023-11-05
+647,Milk - Homo,Anterior displaced fracture of sternal end of left clavicle,"€833,40",Arts & Entertainment,647,2023-07-21,2023-08-15
+648,Cheese - Provolone,"Unsp fracture of unsp patella, init for opn fx type 3A/B/C","€8,78",Attractions,648,2023-02-02,2024-02-22
+649,Tart - Lemon,"Cont preg aft spon abort of one fts or more, third tri, fts3","€235,71",Food & Drink,649,2023-11-29,2023-11-12
+650,Mousse - Banana Chocolate,"Unspecified subluxation of right knee, subsequent encounter","€626,65",Attractions,650,2023-03-10,2024-06-06
+651,"Sugar - Sweet N Low, Individual","Disp fx of anterior wall of left acetabulum, init for opn fx","€148,06",Gifts & Special Events,651,2023-07-30,2024-02-10
+652,"Pasta - Lasagna Noodle, Frozen","Injury of flexor muscle, fascia and tendon at forearm level",,Gifts & Special Events,652,2024-06-02,2023-05-14
+653,Ostrich - Fan Fillet,Toxic effects of unsp halogen derivatives of aromat hydrocrb,"€843,06",Food & Drink,653,2024-03-21,2023-06-12
+654,Beef - Eye Of Round,Superficial foreign body of left forearm,"€828,13",aaaa,654,2023-02-05,2023-03-23
+655,Blue Curacao - Marie Brizard,"Oth fx upper end of left ulna, subs for clos fx w delay heal","€935,53",Beauty & Fitness,655,2023-05-14,2023-08-24
+656,Cheese - Taleggio D.o.p.,"Disruption of internal operation (surgical) wound, NEC, init","€826,06",Gifts & Special Events,656,2024-05-29,2023-02-12
+657,"Wine - Red, Metus Rose",Displaced fracture of medial phalanx of right index finger,"€97,12",Arts & Entertainment,657,2024-05-19,2024-05-02
+658,Carbonated Water - White Grape,"Unspecified sprain of right little finger, sequela","€773,73",aaaa,658,2023-11-02,2024-05-19
+659,Rice - Aborio,"Burn first degree of unsp mult fngr, not inc thumb, subs","€614,29",Arts & Entertainment,659,2023-12-20,2024-03-02
+660,"Artichokes - Knobless, White","Other injury of ovary, unilateral, initial encounter",,Gifts & Special Events,660,2023-09-20,2023-07-12
+661,Tart - Butter Plain Squares,"Poisoning by pyrazolone derivatives, accidental, init","€489,55",Gifts & Special Events,661,2023-01-18,2023-05-19
+662,"Radish - Black, Winter, Organic","Anterior disloc of proximal end of tibia, unsp knee, subs",,aaaa,662,2024-01-11,2023-04-17
+663,Glass Clear 7 Oz Xl,Food in bronchus causing asphyxiation,,Gifts & Special Events,663,2023-10-23,2024-05-13
+664,Gloves - Goldtouch Disposable,Corrosion of second degree of foot,"€554,35",aaaa,664,2023-05-31,2024-01-14
+665,Pastry - Key Limepoppy Seed Tea,"Poisoning by oth antidysrhythmic drugs, undetermined, subs","€906,68",Attractions,665,2024-06-18,2023-01-23
+666,Scallops - 20/30,"Laceration with foreign body, left foot",,Beauty & Fitness,666,2023-06-10,2023-07-02
+667,Tomatoes - Yellow Hot House,"Nondisp segmental fracture of shaft of left femur, sequela","€136,91",Food & Drink,667,2024-01-16,2024-02-15
+668,"Juice - Tomato, 48 Oz","Traumatic subcutaneous emphysema, sequela","€6,72",vvvv,668,2023-08-01,2024-05-11
+669,Bread - Multigrain,"Periprosth fx around internal prosth r elbow joint, subs","€399,53",Beauty & Fitness,669,2023-02-08,2024-05-06
+670,Curry Paste - Madras,Unspecified hydronephrosis,"€543,07",Beauty & Fitness,670,2023-06-30,2023-11-24
+671,Cream - 10%,Oth intraop cardiac functional disturb during oth surgery,"€295,54",aaaa,671,2023-07-16,2024-05-26
+672,Muffin Orange Individual,Anaphylactic reaction due to vaccination,"€781,38",Gifts & Special Events,672,2023-12-30,2023-11-27
+673,Muffin Mix - Oatmeal,"Sprain of posterior cruciate ligament of left knee, init","€616,46",vvvv,673,2024-03-22,2024-06-29
+674,Table Cloth 53x69 White,Rheu heart disease w rheumatoid arthritis of unsp wrist,"€173,20",aaaa,674,2024-01-17,2023-01-09
+675,"Fish - Scallops, Cold Smoked","Enthesopathy, unspecified","€540,13",Food & Drink,675,2023-09-06,2023-01-03
+676,Sansho Powder,"Activity, cooking and baking","€266,57",Food & Drink,676,2023-02-27,2024-01-20
+677,Pork - Side Ribs,Underdosing of mixed antiepileptics,"€773,56",aaaa,677,2024-02-13,2023-02-20
+678,"Noodles - Cellophane, Thin","Oth traum nondisp spondylolysis of 7th cervcal vert, 7thG","€482,40",Beauty & Fitness,678,2023-08-22,2023-11-13
+679,Cheese - Cheddarsliced,"Other subluxation of left foot, sequela","€169,35",aaaa,679,2023-10-19,2024-06-12
+680,"Chicken - Thigh, Bone In","Disp fx of dist phalanx of l lit fngr, 7thP","€945,45",Beauty & Fitness,680,2023-01-03,2023-09-04
+681,"Wine - White, Concha Y Toro","Inj musc/tend anterior grp at low leg level, right leg, subs","€639,61",vvvv,681,2024-03-28,2024-04-20
+682,Bread - 10 Grain Parisian,Rectocele,"€846,31",Arts & Entertainment,682,2023-07-10,2024-04-27
+683,Lady Fingers,Myasthenia gravis with (acute) exacerbation,"€162,17",vvvv,683,2023-11-04,2023-08-28
+684,Beef - Montreal Smoked Brisket,"Nondisp fx of fifth metatarsal bone, right foot, sequela","€514,53",Beauty & Fitness,684,2023-11-06,2023-11-03
+685,Beef - Bresaola,Non-prs chr ulcer oth prt l low leg limited to brkdwn skin,"€793,06",Gifts & Special Events,685,2023-12-23,2023-08-05
+686,Soy Protein,"Strike/struck by driver side automobile airbag, init","€777,07",Attractions,686,2024-03-12,2024-01-26
+687,Pastry - Apple Large,"Oth physeal fx lower end of l tibia, subs for fx w malunion","€521,91",aaaa,687,2023-04-24,2023-09-01
+688,Puree - Passion Fruit,"Sltr-haris Type III physeal fx unspecified metatarsal, 7thD","€663,78",Arts & Entertainment,688,2023-08-27,2023-06-01
+689,Passion Fruit,"Nondisp comminuted fracture of shaft of radius, unsp arm",,aaaa,689,2023-11-03,2023-01-31
+690,Flower - Commercial Spider,"Nondisp fx of head of unsp rad, 7thJ","€521,37",Beauty & Fitness,690,2023-06-14,2023-12-26
+691,Salt And Pepper Mix - White,Jumping or diving into other water striking wall,"€648,02",Arts & Entertainment,691,2023-06-02,2024-06-20
+692,Wine - Vouvray Cuvee Domaine,Open bite of left forearm,"€607,10",Gifts & Special Events,692,2023-03-14,2024-04-11
+693,Chicken - Soup Base,"Central retinal vein occlusion, left eye, stable",,Beauty & Fitness,693,2023-01-20,2023-03-23
+694,Wine - Jafflin Bourgongone,"Pnctr w foreign body of unsp external genital organs, male","€351,07",Food & Drink,694,2023-11-16,2023-09-12
+695,"Pork - Bacon,back Peameal",Congenital shortening of unspecified upper limb,"€301,76",vvvv,695,2024-06-06,2023-03-23
+696,Island Oasis - Sweet And Sour Mix,Acute tracheitis with obstruction,"€845,62",Gifts & Special Events,696,2023-11-20,2023-03-31
+697,Lamb Rack Frenched Australian,"Inj great saphenous at hip and thi lev, left leg, sequela","€669,76",Gifts & Special Events,697,2024-02-01,2023-05-16
+698,Truffle Cups - Brown,"Contact w transmission devices, NEC, sequela","€646,02",aaaa,698,2023-11-13,2023-06-10
+699,Fondant - Icing,"Nondisp bimalleol fx r low leg, init for opn fx type I/2","€971,28",aaaa,699,2023-08-25,2024-03-12
+700,Sage Ground Wiberg,"Unsp inj extn musc/fasc/tend finger at wrs/hnd lv, sequela","€793,05",Beauty & Fitness,700,2023-08-03,2023-02-19
+701,"Soup - Campbells, Beef Barley","Poisoning by antiviral drugs, intentional self-harm, sequela","€482,98",Beauty & Fitness,701,2023-05-15,2024-03-24
+702,"Soup - Campbells, Butternut",Unsp athscl type of bypass graft(s) of the extremities,"€274,58",Food & Drink,702,2023-09-13,2023-12-28
+703,Potatoes - Peeled,"Nondisp commnt fx shaft of l fibula, 7thK","€586,57",Food & Drink,703,2023-12-31,2023-01-02
+704,Hipnotiq Liquor,"Other specified rheumatoid arthritis, right wrist","€601,94",vvvv,704,2023-07-31,2024-06-28
+705,Muffin Batt - Carrot Spice,"Primary open-angle glaucoma, unspecified eye, mild stage","€885,76",Arts & Entertainment,705,2023-10-15,2023-06-30
+706,Cranberries - Dry,Hypertrophic elongation of cervix uteri,"€17,21",Gifts & Special Events,706,2024-06-17,2024-02-26
+707,Beer - Rickards Red,"Injury of unsp nerve at shldr/up arm, right arm, sequela",,Food & Drink,707,2023-05-11,2023-06-18
+708,Wine - Cabernet Sauvignon,"Nondisp fx of med condyle of l tibia, 7thJ","€903,39",Gifts & Special Events,708,2024-03-29,2023-11-22
+709,Orange - Blood,"Acute sphenoidal sinusitis, unspecified","€424,21",Food & Drink,709,2023-09-28,2023-08-18
+710,Steampan Lid,"Corros unsp deg of unsp site right low limb, ex ank/ft, subs",,Gifts & Special Events,710,2023-10-13,2023-11-19
+711,Ecolab - Lime - A - Way 4/4 L,Contusion and laceration of left cerebrum,"€891,23",Arts & Entertainment,711,2024-06-07,2024-01-17
+712,"Beef - Bones, Marrow","Injury of radial nerve at forearm level, right arm, subs","€648,86",Gifts & Special Events,712,2024-02-21,2024-05-27
+713,"Coke - Diet, 355 Ml",Other serum reaction due to vaccination,"€58,00",vvvv,713,2023-02-04,2024-06-11
+714,"Bread - Pita, Mini","Burn of unspecified degree of right wrist, initial encounter","€280,53",aaaa,714,2023-09-10,2024-05-20
+715,Chicken Giblets,"Poisoning by other viral vaccines, assault, init encntr","€942,19",Gifts & Special Events,715,2023-06-04,2023-12-29
+716,"Liners - Banana, Paper",Unsp place in single-family (private) house as place,,Attractions,716,2023-01-01,2023-07-02
+717,Cheese - Asiago,"Unspecified injury of right shoulder and upper arm, sequela","€637,36",vvvv,717,2024-02-21,2023-06-17
+718,Beef Dry Aged Tenderloin Aaa,"Bent bone of left rad, subs for opn fx type I/2 w delay heal","€26,49",Food & Drink,718,2023-03-29,2023-10-29
+719,Chocolate - Milk,"Breakdown (mechanical) of indwelling ureteral stent, sequela","€625,46",aaaa,719,2023-07-12,2024-04-01
+720,Chicken - Whole Roasting,"Oth injury of axillary or brachial vein, right side","€705,92",aaaa,720,2023-06-01,2023-12-05
+721,Wine - Saint Emilion Calvet,"Nondisp fx of prox phalanx of l great toe, 7thD","€67,58",aaaa,721,2023-01-09,2024-02-13
+722,Compound - Strawberry,Spacecraft fire injuring occupant,,Arts & Entertainment,722,2024-04-21,2023-07-04
+723,Versatainer Nc - 9388,"Nondisp apophyseal fx unsp femr, 7thH","€624,64",Attractions,723,2023-12-26,2023-06-03
+724,Coconut - Whole,"Gout due to renal impairment, right wrist","€567,64",Arts & Entertainment,724,2023-04-09,2023-10-07
+725,Pepper - Cayenne,"Oth injury of intercostal blood vessels, right side, sequela","€889,23",Gifts & Special Events,725,2024-01-09,2023-10-25
+726,Bread Base - Goodhearth,"Animl-ridr inj pk-up truck, pick-up truck, van, hv veh, subs","€746,85",Attractions,726,2023-09-28,2023-12-24
+727,Snapple - Mango Maddness,"Paralytic calcification and ossification of muscle, oth site",,Attractions,727,2024-02-10,2024-03-29
+728,Vacuum Bags 12x16,"Unspecified sprain of right ring finger, sequela","€406,68",Food & Drink,728,2023-06-13,2024-02-25
+729,Bols Melon Liqueur,"Corros 3rd deg mu sites of right lower limb, ex ank/ft, sqla",,Gifts & Special Events,729,2023-06-16,2024-03-07
+730,"Wine - Saint - Bris 2002, Sauv","Unspecified open wound, left ankle, subsequent encounter","€685,14",aaaa,730,2023-11-13,2024-05-13
+731,"Capon - Breast, Double, Wing On",Other subluxation and dislocation of shoulder joint,"€564,85",Arts & Entertainment,731,2023-03-30,2024-01-17
+732,"Turkey - Breast, Boneless Sk On","Rupture of synovium, left elbow","€648,83",Gifts & Special Events,732,2023-10-21,2023-02-09
+733,Baking Powder,"Poisoning by oth antiprotozoal drugs, undetermined, subs","€296,06",Arts & Entertainment,733,2023-08-08,2023-10-25
+734,Puree - Strawberry,"Legal intervnt involving manhandling, bystand injured, init","€594,48",Arts & Entertainment,734,2023-06-27,2024-05-03
+735,Chicken - Whole,Traumatic rupture of unspecified ligament of wrist,"€141,48",vvvv,735,2023-11-06,2024-04-29
+736,Turnip - Mini,"Sltr-haris Type IV physl fx low end rad, r arm, 7thD","€719,40",Attractions,736,2024-06-22,2024-01-24
+737,Beer - Pilsner Urquell,Night blindness,"€934,79",vvvv,737,2024-03-16,2023-06-11
+738,Dr. Pepper - 355ml,"Occ of anml-drn vehicle injured in clsn w pedl cyc, init","€757,60",aaaa,738,2023-04-15,2023-12-12
+739,Tamarillo,"Complete physeal arrest, right proximal humerus","€82,87",Beauty & Fitness,739,2023-11-01,2023-08-29
+740,Table Cloth 90x90 Colour,"Nondisp fx of post wl of r acetab, subs for fx w routn heal","€513,51",vvvv,740,2023-09-26,2024-06-27
+741,Spinach - Spinach Leaf,"Contact with contaminated hypodermic needle, init encntr","€672,05",Gifts & Special Events,741,2023-10-26,2023-08-22
+742,Coffee Decaf Colombian,"Poisoning by antiviral drugs, accidental, init","€373,60",aaaa,742,2023-01-26,2023-02-11
+743,Wine - Masi Valpolocell,"Nondisp midcervical fx r femr, 7thF","€752,77",Beauty & Fitness,743,2023-12-08,2023-03-10
+744,Bagelers - Cinn / Brown Sugar,"Placentitis, third trimester","€985,20",Gifts & Special Events,744,2023-05-10,2024-05-14
+745,"Pasta - Rotini, Dry",Laceration of plantar artery of left foot,"€544,00",aaaa,745,2023-12-11,2024-03-26
+746,Sobe - Tropical Energy,"Ciguatera fish poisoning, intentional self-harm, init encntr","€307,16",Gifts & Special Events,746,2024-03-31,2024-03-22
+747,"Shrimp - 16/20, Peeled Deviened","Obturator subluxation of left hip, sequela","€783,63",Food & Drink,747,2023-04-02,2024-02-09
+748,Sage Derby,"Burn of first degree of male genital region, sequela","€736,15",Gifts & Special Events,748,2024-02-14,2023-02-13
+749,Wine - Bouchard La Vignee Pinot,"Inj unsp blood vessel at forearm level, left arm, sequela","€438,32",vvvv,749,2023-12-20,2024-04-06
+750,Iced Tea Concentrate,"Trp preg, unable to dtrm num plcnta & amnio sacs, third tri","€902,68",vvvv,750,2024-04-20,2023-01-02
+751,"Beef - Rib Roast, Capless","Malignant neoplasm of meninges, unspecified","€906,47",Gifts & Special Events,751,2023-11-13,2024-01-08
+752,Duck - Breast,"Unsp inj intrns musc/fasc/tend r thm at wrs/hnd lv, sequela","€456,96",Beauty & Fitness,752,2023-03-10,2024-02-07
+753,Bag - Clear 7 Lb,"Anterior dislocation of left sternoclavicular joint, init","€69,32",Attractions,753,2023-12-18,2023-04-10
+754,Tea - Grapefruit Green Tea,"Unspecified fracture of shaft of left tibia, sequela","€781,05",Gifts & Special Events,754,2024-06-23,2024-05-28
+755,Cake - Cheese Cake 9 Inch,Unspecified disorder of cornea,"€620,76",Gifts & Special Events,755,2023-06-09,2024-04-05
+756,Mangostein,"Occup of 3-whl mv injured in clsn w hv veh in traf, sequela","€89,64",Food & Drink,756,2023-11-09,2024-02-05
+757,"Sugar - Sweet N Low, Individual","Contact with edge of stiff paper, initial encounter","€913,77",Gifts & Special Events,757,2024-05-26,2023-10-22
+758,Cheese - Brick With Onion,"Pressure ulcer of right elbow, stage 3","€92,38",Beauty & Fitness,758,2024-02-18,2023-07-09
+759,Sansho Powder,"Poisoning by unsp anesthetic, accidental, init","€505,03",aaaa,759,2023-04-17,2024-02-16
+760,Creme De Cacao White,Burn of unspecified degree of left axilla,"€368,96",vvvv,760,2024-03-25,2023-01-04
+761,"Shrimp - 16/20, Iqf, Shell On","Burn unsp deg mult sites of left lower limb, ex ank/ft, subs","€288,86",Arts & Entertainment,761,2023-10-01,2024-06-08
+762,Goldschalger,Superficial frostbite of other sites,"€902,68",aaaa,762,2023-10-14,2024-04-19
+763,"Beef - Rib Roast, Capless","Disp fx of unsp tibial tuberosity, 7thP","€833,04",Gifts & Special Events,763,2024-06-24,2024-05-31
+764,Cassis,Furuncle of left upper limb,"€243,45",Arts & Entertainment,764,2023-04-07,2023-10-28
+765,Lamb Tenderloin Nz Fr,"Laceration of musc/fasc/tend long head of biceps, right arm","€803,50",Food & Drink,765,2024-06-19,2024-01-31
+766,Spaghetti Squash,"Oth comp specific to multiple gest, first trimester, oth","€35,36",Attractions,766,2023-01-20,2024-04-27
+767,Rabbit - Frozen,Fracture of manubrium,"€507,56",vvvv,767,2023-04-11,2023-07-30
+768,Wine - Jafflin Bourgongone,"Osteopathy in diseases classd elswhr, right ankle and foot","€817,45",Beauty & Fitness,768,2024-02-12,2023-09-02
+769,Frangelico,"Postdysenteric arthropathy, unspecified hand",,Beauty & Fitness,769,2024-01-06,2024-06-17
+770,"Pasta - Fett Alfredo, Single Serve","Traumatic rupture of right ulnar collateral ligament, init","€204,36",Beauty & Fitness,770,2024-06-13,2023-03-12
+771,Cookie Dough - Double,"Brown-Sequard syndrome at C8, subs","€181,20",Food & Drink,771,2023-07-10,2023-04-24
+772,Curry Paste - Madras,"Unsp war operations occurring after, civilian, init",,Gifts & Special Events,772,2023-03-22,2023-04-17
+773,Shrimp - Black Tiger 16/20,"Other calcification of muscle, other site","€368,12",Beauty & Fitness,773,2024-06-09,2024-06-24
+774,Lettuce - Boston Bib - Organic,Unspecified subluxation of right toe(s),"€626,07",Beauty & Fitness,774,2023-08-25,2023-09-03
+775,"Yogurt - Peach, 175 Gr",Athscl heart disease of native cor art w unsp ang pctrs,"€841,79",Attractions,775,2023-08-27,2023-11-10
+776,Milk - 2%,Injury of other blood vessels of thorax,"€928,73",Food & Drink,776,2023-03-10,2023-08-07
+777,Mustard - Pommery,"Disp fx of lateral end of r clavicle, subs for fx w nonunion","€3,55",vvvv,777,2024-04-01,2023-08-02
+778,"Yogurt - Blueberry, 175 Gr",Aftercare following sterilization reversal,"€676,58",Gifts & Special Events,778,2023-12-11,2023-05-05
+779,Walkers Special Old Whiskey,"Unsp car occupant injured in clsn w car nontraf, sequela","€306,65",Gifts & Special Events,779,2023-01-29,2024-05-31
+780,Crackers - Trio,Other chronic cystitis without hematuria,"€286,13",Beauty & Fitness,780,2023-07-31,2023-04-12
+781,Paper Cocktail Umberlla 80 - 180,"Partial traumatic amputation of right great toe, sequela","€782,96",aaaa,781,2023-02-08,2024-04-29
+782,Fruit Mix - Light,"Age-related nuclear cataract, unspecified eye","€755,63",Attractions,782,2023-10-25,2024-03-25
+783,Sauce - Thousand Island,Unsp injury of long flexor musc/fasc/tend thmb at wrs/hnd lv,"€196,19",Gifts & Special Events,783,2023-02-23,2023-04-22
+784,"Lettuce - Mini Greens, Whole",Contact with garden tool,"€714,61",vvvv,784,2024-03-25,2023-12-02
+785,"Salmon - Atlantic, No Skin","Nondisp fx of triquetrum bone, r wrs, 7thD","€148,53",Attractions,785,2023-04-10,2023-06-20
+786,"Oil - Truffle, White","Person outside car inj in clsn w 2/3-whl mv in traf, subs","€749,61",Beauty & Fitness,786,2023-12-29,2024-04-29
+787,"Tart Shells - Sweet, 3","Other mechanical complication of infusion catheter, sequela","€704,71",Arts & Entertainment,787,2023-05-25,2024-04-02
+788,Wine - Peller Estates Late,"Legal intervnt w firearm disch, law enforc offl inj, init","€161,93",Food & Drink,788,2023-05-03,2023-02-16
+789,Loquat,"Low lying placenta NOS or without hemor, first trimester","€494,17",aaaa,789,2023-05-28,2023-04-25
+790,Red Currant Jelly,"Anterior cord syndrome at C1, sequela",,aaaa,790,2024-02-03,2023-05-16
+791,Yukon Jack,"Non-pressure chronic ulcer of skin, not elsewhere classified","€741,13",vvvv,791,2023-12-15,2024-05-30
+792,Olives - Kalamata,"Laceration of oth blood vessels of thorax, right side, init","€278,62",vvvv,792,2023-05-17,2023-07-04
+793,Wine - Shiraz South Eastern,"Poisoning by unsp anesthetic, intentional self-harm, subs",,Food & Drink,793,2024-02-07,2023-10-06
+794,Soho Lychee Liqueur,Indeterminate colitis,"€424,99",aaaa,794,2023-06-16,2023-07-30
+795,Turkey - Ground. Lean,"Other specified bursopathies, knee","€867,80",Attractions,795,2024-06-19,2023-09-08
+796,Cocoa Powder - Natural,"Matern care for oth or susp poor fetl grth, 2nd tri, fts3","€915,27",vvvv,796,2024-02-05,2024-05-23
+797,"Beans - Black Bean, Canned",Milt op involving firearm discharge and oth conventl warfare,,Attractions,797,2023-09-01,2024-05-20
+798,Asparagus - Mexican,Other physeal fracture of lower end of unspecified femur,,Beauty & Fitness,798,2023-09-25,2024-04-09
+799,"Juice - Grape, White","Underdosing of rifampicins, sequela","€373,70",Food & Drink,799,2023-07-13,2023-01-30
+800,French Pastry - Mini Chocolate,"Laceration with foreign body of left hand, sequela","€418,39",aaaa,800,2023-05-05,2024-04-01
+801,Cheese - Perron Cheddar,"Injury of other nerves at forearm level, left arm, sequela","€252,48",Attractions,801,2024-02-09,2024-05-05
+802,Eggplant Oriental,"Mast cell activation, unspecified","€610,37",vvvv,802,2024-02-04,2023-03-19
+803,"Tart Shells - Sweet, 3","Disp fx of fifth metatarsal bone, left foot, init",,Arts & Entertainment,803,2023-11-16,2024-01-04
+804,"Mushroom - Enoki, Dry",Carcinoma in situ of unspecified female genital organs,"€136,58",aaaa,804,2023-04-29,2023-05-31
+805,Cornstarch,"Mycotic corneal ulcer, unspecified eye","€65,08",vvvv,805,2023-01-29,2024-05-10
+806,Fruit Mix - Light,"Other fracture of occiput, unspecified side, init","€348,48",vvvv,806,2023-03-05,2023-11-23
+807,Irish Cream - Baileys,"Disp fx of greater tuberosity of unsp humer, 7thK","€499,94",Beauty & Fitness,807,2023-12-22,2023-07-22
+808,Wine - Gato Negro Cabernet,"Car passenger injured in clsn w 2/3-whl mv in traf, sequela","€907,66",Attractions,808,2023-02-17,2023-06-18
+809,"Salmon - Atlantic, Skin On","Sprain of unspecified site of unspecified knee, subs encntr","€833,92",Arts & Entertainment,809,2023-08-03,2024-04-08
+810,Tray - 16in Rnd Blk,"Non-follic (diffuse) lymphoma, unsp, intrathorac lymph nodes","€367,32",vvvv,810,2023-05-08,2024-06-15
+811,Scallops - U - 10,"Sepsis of newborn due to streptococcus, group B","€393,36",vvvv,811,2023-02-23,2023-04-09
+812,Beer - Sleeman Fine Porter,"Nondisp seg fx shaft of r femr, 7thG","€860,17",aaaa,812,2023-06-07,2024-03-25
+813,Bread - Italian Roll With Herbs,"Disp fx of lateral condyle of unsp humerus, init for opn fx","€174,44",Attractions,813,2023-10-10,2023-03-11
+814,Beef - Salted,"Other osteonecrosis, unspecified ankle",,aaaa,814,2023-07-04,2024-06-04
+815,Wasabi Paste,Toxic effect of lacrimogenic gas,"€476,30",Gifts & Special Events,815,2024-01-02,2023-09-23
+816,Chevere Logs,"Traum hemor left cerebrum w LOC of 6 hours to 24 hours, subs","€84,39",Beauty & Fitness,816,2024-02-07,2023-11-09
+817,Clementine,Encounter for fit/adjst of partial artificial left arm,"€617,41",aaaa,817,2024-04-22,2023-03-22
+818,"Chilli Paste, Ginger Garlic","Burn of first degree of unspecified elbow, subs encntr","€549,80",vvvv,818,2023-09-24,2023-11-21
+819,Gloves - Goldtouch Disposable,"Unsp inj extn musc/fasc/tend at forarm lv, unsp arm, init","€778,59",Food & Drink,819,2024-03-13,2023-12-27
+820,Remy Red Berry Infusion,"Drown due to oth powered watercraft overturning, sequela","€414,36",Beauty & Fitness,820,2024-02-05,2023-09-30
+821,Longos - Chicken Curried,Dvtrcli of lg int w perforation and abscess w bleeding,"€797,53",Food & Drink,821,2024-05-12,2023-01-12
+822,Table Cloth 62x114 Colour,Unspecified injury of abdomen,,Gifts & Special Events,822,2024-02-01,2023-07-19
+823,"Pepper - White, Ground","Food in pharynx causing asphyxiation, sequela","€926,56",aaaa,823,2024-05-27,2024-03-05
+824,Lamb Rack Frenched Australian,"Unsp disp fx of fourth cervical vertebra, init for opn fx","€183,85",Arts & Entertainment,824,2024-06-11,2023-06-04
+825,Wine - Carmenere Casillero Del,Atherosclerosis of CABG w angina pectoris w documented spasm,"€897,31",Arts & Entertainment,825,2024-01-18,2023-10-09
+826,Pie Shell - 9,"Sltr-haris Type I physl fx upr end unsp fibula, 7thD","€143,48",Attractions,826,2023-09-30,2024-07-01
+827,Squid Ink,Occup of pk-up/van injured in collision w unsp mv nontraf,"€315,95",Attractions,827,2023-11-15,2023-08-15
+828,Wine - Placido Pinot Grigo,"Other non-in-line roller-skating accident, subs encntr","€782,47",Beauty & Fitness,828,2023-09-20,2024-01-19
+829,Carbonated Water - Lemon Lime,Encounter for other procreative investigation and testing,"€894,69",Beauty & Fitness,829,2024-06-01,2023-09-06
+830,Jolt Cola,"Nondisp fx of mid 3rd of navic bone of r wrs, 7thD","€243,08",Beauty & Fitness,830,2024-01-27,2023-04-08
+831,Chocolate - Dark Callets,"Puncture wound w/o foreign body, left lower leg, init encntr","€27,27",Gifts & Special Events,831,2024-04-11,2023-10-11
+832,Beef Wellington,"Superficial foreign body, left hip","€566,41",vvvv,832,2023-09-12,2023-10-06
+833,White Baguette,"Unsp intracranial injury w/o loss of consciousness, subs","€501,73",Attractions,833,2023-06-02,2023-09-14
+834,Vinegar - Rice,"Disp fx of med phalanx of l idx fngr, 7thG","€780,15",Arts & Entertainment,834,2023-02-24,2024-04-14
+835,Chinese Foods - Chicken Wing,"Other specified injury of posterior tibial artery, left leg","€619,07",Attractions,835,2024-04-10,2023-08-21
+836,"Lamb - Leg, Diced","Poisn by histamine H2-receptor blockers, self-harm, sequela","€808,33",Beauty & Fitness,836,2024-04-12,2024-02-15
+837,Cloves - Ground,"Fx unspecified part of body of mandible, unspecified side","€310,26",Arts & Entertainment,837,2024-06-07,2024-06-13
+838,Bread Base - Goodhearth,Unsp injury of musc/fasc/tend at thigh level,"€272,22",aaaa,838,2023-10-25,2024-05-30
+839,The Pop Shoppe - Lime Rickey,"Inj great saphenous at lower leg level, left leg, sequela","€446,39",Beauty & Fitness,839,2024-03-14,2024-04-18
+840,Coffee - Decaffeinato Coffee,"Lacerat unsp blood vess at hip and thi lev, left leg, subs","€265,66",Beauty & Fitness,840,2023-04-28,2023-04-30
+841,"Pepsi, 355 Ml","Other injury of left kidney, subsequent encounter","€695,57",Arts & Entertainment,841,2023-11-03,2023-02-26
+842,Scallops - Live In Shell,"Adverse effect of anticholinesterase agents, subs encntr","€698,50",Arts & Entertainment,842,2023-04-09,2023-08-07
+843,"Lid - Translucent, 3.5 And 6 Oz","Toxic effect of oth inorganic substances, assault, sequela","€899,15",Gifts & Special Events,843,2024-02-16,2023-07-31
+844,Long Island Ice Tea,"Advrs effect of unsp sys anti-infect and antiparasitic, subs","€118,82",Gifts & Special Events,844,2024-01-01,2024-01-31
+845,Remy Red Berry Infusion,"Poisoning by antiasthmatics, intentional self-harm","€995,12",Beauty & Fitness,845,2023-02-14,2023-09-20
+846,Tea - Grapefruit Green Tea,"Disp fx of anterior column of right acetabulum, sequela","€998,59",aaaa,846,2024-02-13,2023-01-26
+847,Beef - Shank,Corrosion of second degree of right thumb (nail),"€42,26",vvvv,847,2023-12-03,2023-04-21
+848,Syrup - Monin - Passion Fruit,"Traum subrac hem w LOC of unsp duration, init","€182,72",Food & Drink,848,2023-08-17,2023-04-13
+849,Star Fruit,"Toxic effect of oth insecticides, undetermined, subs encntr","€976,77",vvvv,849,2023-12-16,2023-02-09
+850,"Turkey - Whole, Fresh","Acute leukemia of unspecified cell type, in relapse","€701,72",Attractions,850,2024-06-07,2023-03-03
+851,"Basil - Dry, Rubbed",Leakage of balloon (counterpulsation) device,"€218,15",vvvv,851,2024-04-15,2023-02-26
+852,Amarula Cream,Newborn affected by oth complications of labor and delivery,"€70,62",vvvv,852,2024-01-17,2023-07-28
+853,Pastry - Chocolate Marble Tea,"Nondisp fx of nk of 1st MC bone, unsp hand, 7thG","€356,75",Beauty & Fitness,853,2023-11-09,2023-12-01
+854,Wine - Magnotta - Cab Franc,"Oth pregnancy related conditions, second trimester","€917,48",Beauty & Fitness,854,2024-04-21,2023-10-20
+855,Port - 74 Brights,"Occup of pk-up/van inj in clsn w nonmtr veh in traf, sqla","€767,08",Arts & Entertainment,855,2023-09-01,2023-10-12
+856,Flour - Strong,"Unstbl burst fx third lum vertebra, subs for fx w delay heal","€48,84",Attractions,856,2023-05-01,2023-10-28
+857,Chocolate - White,Insect bite (nonvenomous) of shoulder,,Beauty & Fitness,857,2023-02-24,2023-01-03
+858,Container - Clear 32 Oz,"Toxic effect of contact w oth venomous amphib, slf-hrm, subs",,vvvv,858,2024-04-09,2023-12-07
+859,"Nut - Hazelnut, Whole",Twin pregnancy,"€81,33",Beauty & Fitness,859,2023-08-11,2023-12-11
+860,Fib N9 - Prague Powder,"Crushing injury of wrist, hand and fingers","€859,11",Attractions,860,2024-04-26,2023-01-06
+861,Rabbit - Frozen,"Nondisp artic fx head of unsp femr, 7thP","€144,89",vvvv,861,2023-01-30,2024-02-01
+862,"Shrimp - Baby, Cold Water","Type 2 diab with mild nonp rtnop without mclr edema, l eye","€751,51",Attractions,862,2023-03-09,2024-01-16
+863,Turnip - White,"Abrasion of left little finger, sequela",,Attractions,863,2024-05-08,2023-01-17
+864,Brandy Apricot,Pruritus ani,"€521,44",Arts & Entertainment,864,2024-06-30,2023-12-02
+865,Potatoes - Pei 10 Oz,"Lacerat intrns musc/fasc/tend l mid fngr at wrs/hnd lv, subs","€759,86",Food & Drink,865,2023-07-08,2024-05-25
+866,Wine - Cava Aria Estate Brut,"Other specified leukemias, in relapse","€156,57",Gifts & Special Events,866,2024-01-13,2023-03-28
+867,Soup Campbells - Tomato Bisque,Prsn brd/alit a car injured in collision w pedal cycle,"€635,06",Attractions,867,2023-10-07,2023-11-05
+868,Liqueur - Melon,Renal osteodystrophy,,Beauty & Fitness,868,2023-08-23,2023-10-01
+869,Ice Cream Bar - Rolo Cone,"Disease of Bartholin's gland, unspecified","€32,35",Beauty & Fitness,869,2023-03-25,2023-07-15
+870,"Soup - French Onion, Dry","Nondisp commnt fx shaft of humer, r arm, 7thP","€366,49",vvvv,870,2024-05-12,2024-01-11
+871,Rice - Brown,"Oth fx shaft of unsp ulna, subs for clos fx w malunion","€486,60",Beauty & Fitness,871,2023-12-02,2024-03-20
+872,Salmon Atl.whole 8 - 10 Lb,"Unsp opn wnd right lesser toe(s) w damage to nail, init","€267,17",Gifts & Special Events,872,2023-11-18,2024-03-31
+873,"Pasta - Fettuccine, Egg, Fresh","Collapsed vertebra, NEC, occipito-atlanto-axial region","€256,65",Arts & Entertainment,873,2023-03-02,2024-03-12
+874,Beer - Upper Canada Light,Cyst of unspecified orbit,"€993,84",vvvv,874,2023-04-25,2023-01-14
+875,Quail - Jumbo Boneless,Antiasthmatics,"€31,14",Arts & Entertainment,875,2023-08-11,2023-11-03
+876,Wine - Rosso Del Veronese Igt,"Toxic effect of oth inorganic substances, undetermined, subs","€910,30",Gifts & Special Events,876,2023-12-24,2024-04-18
+877,Tea - Decaf 1 Cup,Other types of follicular lymphoma,"€623,49",vvvv,877,2024-07-01,2023-01-01
+878,Cheese - Brie Roitelet,"Idiopathic chronic gout, left hand, without tophus (tophi)","€442,08",aaaa,878,2023-01-05,2023-10-24
+879,Cinnamon Buns Sticky,"Cerebral aneurysm, nonruptured","€286,48",Food & Drink,879,2024-01-10,2024-01-22
+880,Ostrich - Fan Fillet,"Sedative, hypnotic or anxiolytic abuse w sleep disorder","€447,50",Gifts & Special Events,880,2023-02-04,2023-10-27
+881,Cognac - Courvaisier,"Laceration of unsp urinary and pelvic organ, subs encntr","€914,57",Gifts & Special Events,881,2023-06-12,2024-05-17
+882,Marjoram - Fresh,Breakdown (mechanical) of int fix of right humerus,"€404,00",Gifts & Special Events,882,2024-02-08,2023-04-14
+883,Water - Aquafina Vitamin,"Posterior subluxation of unsp radial head, init encntr",,Attractions,883,2023-12-24,2023-09-07
+884,Dragon Fruit,"Unsp injury of ulnar artery at forarm lv, right arm, sequela","€90,56",Gifts & Special Events,884,2023-10-11,2023-10-18
+885,"Wine - Red, Antinori Santa",Crohn's disease of small intestine with unsp complications,"€517,32",Beauty & Fitness,885,2023-02-17,2024-06-04
+886,Sugar - Palm,"Laceration with foreign body, unsp lower leg, subs encntr","€568,92",Beauty & Fitness,886,2023-08-31,2024-04-19
+887,Apples - Spartan,"Laceration of blood vessels at forarm lv, right arm, init","€722,03",Arts & Entertainment,887,2023-10-13,2023-02-22
+888,Island Oasis - Mango Daiquiri,"Bent bone of l rad, subs for opn fx type 3A/B/C w delay heal","€576,81",Beauty & Fitness,888,2023-12-03,2023-09-01
+889,Scallops - Live In Shell,Other secondary parkinsonism,"€356,57",Beauty & Fitness,889,2023-02-23,2024-03-03
+890,Potatoes - Idaho 80 Count,Acute salpingitis,"€264,01",Attractions,890,2023-05-13,2023-09-28
+891,Lid Coffee Cup 8oz Blk,Encntr for surgical aftcr fol surgery on spcf body systems,"€636,67",Gifts & Special Events,891,2024-01-31,2023-07-18
+892,Chips - Miss Vickies,"Sinus barotrauma, initial encounter","€129,25",Gifts & Special Events,892,2023-01-25,2024-02-01
+893,Table Cloth 120 Round White,"Unsp fracture of unsp wrist and hand, subs for fx w malunion","€38,76",Food & Drink,893,2023-10-20,2023-05-22
+894,Soup - Campbells,"Poisoning by other fibrinolysis-affecting drugs, assault","€394,71",aaaa,894,2024-01-10,2024-06-11
+895,Pork Ham Prager,Carcinoma in situ of right bronchus and lung,"€605,60",Gifts & Special Events,895,2023-02-10,2023-11-30
+896,"Apple - Delicious, Red","Major laceration of femoral artery, left leg, init encntr","€631,01",vvvv,896,2024-06-08,2023-12-15
+897,Beef - Inside Round,Leucocoria,,aaaa,897,2023-10-27,2023-11-05
+898,"Bread - White, Sliced","Inj muscle, fascia and tendon of triceps, right arm, sequela","€325,82",Beauty & Fitness,898,2023-04-06,2023-05-02
+899,Wine - Pinot Noir Pond Haddock,"Toxic effect of sulfur dioxide, accidental (unintentional)","€764,70",Arts & Entertainment,899,2023-04-14,2023-07-06
+900,"Pasta - Cappellini, Dry","Nondisp suprcndl fx w intrcndl extn low end r femr, 7thN",,Gifts & Special Events,900,2023-06-30,2023-08-16
+901,"Peas - Pigeon, Dry",Chronic atrophic gastritis,"€152,08",Attractions,901,2023-01-07,2023-04-13
+902,Muffin - Mix - Strawberry Rhubarb,"Keratoconus, unspecified, left eye",,Arts & Entertainment,902,2023-02-26,2024-05-28
+903,Worcestershire Sauce,Calculus of bile duct w acute cholecystitis w/o obstruction,"€254,43",Gifts & Special Events,903,2023-01-25,2023-02-03
+904,Beef Flat Iron Steak,"Nondisp fx of olecran pro w/o intartic extn l ulna, 7thC","€124,13",vvvv,904,2023-09-26,2023-11-12
+905,"Soup - Beef, Base Mix","Smith's fx unsp rad, 7thJ",,Attractions,905,2023-04-18,2023-08-23
+906,Ham - Black Forest,"Assault by unspecified larger firearm discharge, sequela","€540,94",Food & Drink,906,2023-10-09,2023-06-01
+907,"Corn - Cream, Canned",Hypertension secondary to endocrine disorders,"€748,46",Gifts & Special Events,907,2023-07-02,2024-06-12
+908,Soup Bowl Clear 8oz92008,"Nondisp fx of lateral malleolus of r fibula, 7thN",,vvvv,908,2024-04-13,2023-06-10
+909,"Lentils - Green, Dry","Nondisp commnt fx shaft of humer, unsp arm, init for opn fx","€805,87",Beauty & Fitness,909,2023-03-26,2023-02-23
+910,Beer - Camerons Auburn,"Nondisp fx of r tibial spin, 7thH","€488,78",vvvv,910,2023-01-25,2023-12-10
+911,Lid Tray - 12in Dome,Non-prs chronic ulcer of right ankle w fat layer exposed,"€410,50",Attractions,911,2023-08-18,2024-06-01
+912,Chevril,Vasculogenic erectile dysfunction,"€153,03",Food & Drink,912,2023-11-08,2023-04-17
+913,Maple Syrup,"Other secondary osteonecrosis, left foot","€490,67",Attractions,913,2024-03-29,2024-05-26
+914,Wine - Manischewitz Concord,Pathological fracture in neoplastic disease,"€664,75",Beauty & Fitness,914,2023-08-10,2024-04-14
+915,Nori Sea Weed,"Burn of unsp degree of back of unspecified hand, subs encntr",,vvvv,915,2023-12-08,2024-03-30
+916,"Nut - Almond, Blanched, Sliced","Nondisp oblique fx shaft of unsp fibula, 7thM","€852,55",Food & Drink,916,2023-12-15,2023-10-06
+917,Mix - Cocktail Ice Cream,"Displaced comminuted fracture of shaft of left tibia, init","€93,61",Beauty & Fitness,917,2024-06-27,2024-06-27
+918,Chocolate - Unsweetened,"Asphyxiation due to plastic bag, accidental, subs encntr","€209,06",Food & Drink,918,2024-04-14,2024-02-12
+919,Thyme - Fresh,"Central corneal ulcer, left eye","€616,50",Gifts & Special Events,919,2023-12-29,2023-01-17
+920,Flour - Fast / Rapid,"Complete lesion at C4 level of cervical spinal cord, sequela","€932,50",aaaa,920,2023-04-09,2024-04-05
+921,Lettuce - Boston Bib,"Traum hemor cereb, w LOC w dth d/t oth cause bf consc, subs","€42,32",vvvv,921,2023-03-13,2023-10-02
+922,Wine - Malbec Trapiche Reserve,"Erythema multiforme, unspecified","€102,64",vvvv,922,2023-02-18,2024-02-21
+923,Gatorade - Orange,"Osteopathy in diseases classified elsewhere, left lower leg","€566,79",aaaa,923,2023-04-14,2023-07-05
+924,Cup - 4oz Translucent,Dislocation of T1/T2 thoracic vertebra,"€827,35",Gifts & Special Events,924,2024-01-30,2023-12-17
+925,Ezy Change Mophandle,"Activity, springboard and platform diving","€763,23",Beauty & Fitness,925,2023-02-11,2023-03-16
+926,Sprouts - Peppercress,"Unspecified injury of lung, unilateral, sequela","€111,43",Arts & Entertainment,926,2023-03-01,2023-04-22
+927,Silicone Parch. 16.3x24.3,"Pnctr w foreign body of unsp finger w damage to nail, init","€136,25",Gifts & Special Events,927,2023-03-30,2023-10-11
+928,V8 Splash Strawberry Kiwi,Toxic effect of contact with stingray,"€993,53",vvvv,928,2024-01-17,2024-01-13
+929,"Beef - Ground, Extra Lean, Fresh",Burns of 20-29% of body surface w 10-19% third degree burns,"€333,89",Gifts & Special Events,929,2024-01-20,2024-02-19
+930,Vinegar - Champagne,"Unspecified sprain of left index finger, initial encounter","€200,80",Arts & Entertainment,930,2023-02-21,2023-05-28
+931,"Lid - High Heat, Super Clear",Penetrating wound with foreign body of right eyeball,"€257,20",aaaa,931,2023-02-03,2024-05-06
+932,Appetizer - Crab And Brie,"Lacerat unsp blood vessel at forarm lv, right arm, init","€663,63",Attractions,932,2023-03-04,2023-05-10
+933,Coffee - Egg Nog Capuccino,Retinal disorders in diseases classified elsewhere,"€408,04",aaaa,933,2024-07-01,2023-02-18
+934,Juice - Propel Sport,Prsn brd/alit a 3-whl mv injured in collision w pedal cycle,"€973,29",Gifts & Special Events,934,2024-05-17,2023-08-19
+935,Beer - True North Strong Ale,"Oth fx shaft of right ulna, subs for clos fx w routn heal","€521,91",Beauty & Fitness,935,2023-06-14,2024-05-16
+936,Pear - Packum,"Sedative, hypnotic or anxiolytic dependence with withdrawal","€811,09",aaaa,936,2024-05-14,2024-02-10
+937,Gherkin - Sour,Pervasive developmental disorders,"€706,47",Arts & Entertainment,937,2024-04-10,2023-06-05
+938,Swiss Chard - Red,Atheroembolism of right upper extremity,"€265,48",Arts & Entertainment,938,2024-01-26,2023-11-16
+939,Puff Pastry - Sheets,"Unsp ultralt/microlt/pwr-glider acc injuring occupant, subs","€540,72",Gifts & Special Events,939,2023-09-11,2024-04-29
+940,Shiro Miso,Atheroembolism of unspecified lower extremity,"€362,89",Arts & Entertainment,940,2024-04-16,2023-01-22
+941,"Wine - Red, Colio Cabernet","Nondisp transverse fx shaft of l ulna, 7thE","€538,17",aaaa,941,2023-07-31,2023-01-02
+942,Sobe - Orange Carrot,"Displ suprcndl fx w intrcndl extn lower end of r femur, sqla","€731,46",Food & Drink,942,2024-04-17,2023-08-29
+943,"Lemonade - Kiwi, 591 Ml","Inj oth blood vessels of thorax, unsp side, sequela","€205,50",Attractions,943,2023-04-26,2023-07-02
+944,"Lemonade - Island Tea, 591 Ml","Displ oblique fx shaft of unsp rad, 7thJ","€187,78",vvvv,944,2024-07-01,2023-09-17
+945,Cookie Dough - Oatmeal Rasin,Other subluxation of left shoulder joint,"€534,39",Food & Drink,945,2024-02-19,2024-05-04
+946,Sauce - Plum,"Osteochondritis dissecans, unspecified wrist","€799,83",Attractions,946,2023-12-05,2024-02-10
+947,"Beans - Long, Chinese","Toxic effect of fusel oil, undetermined, sequela","€169,30",aaaa,947,2023-07-05,2023-02-15
+948,Wine - Delicato Merlot,"Toxic effect of venom of venomous lizard, undetermined, subs","€951,90",vvvv,948,2023-11-02,2024-01-02
+949,"Juice - Clamato, 341 Ml","Lead-induced chronic gout, left hip, without tophus (tophi)","€897,10",Attractions,949,2023-06-12,2023-11-30
+950,Dawn Professionl Pot And Pan,Complications specific to multiple gestation,,Attractions,950,2023-03-19,2023-01-11
+951,Cheese - Colby,"Sltr-haris Type II physeal fx lower end of unsp fibula, init",,Arts & Entertainment,951,2024-04-27,2023-05-03
+952,Puree - Passion Fruit,"Adverse effect of drug/meds/biol subst, init","€69,96",vvvv,952,2023-02-11,2023-08-14
+953,"Crab - Claws, 26 - 30",Mumps pancreatitis,"€767,40",vvvv,953,2024-06-23,2023-04-15
+954,Momiji Oroshi Chili Sauce,"Car driver injured in clsn w rail trn/veh in traf, sequela","€705,04",aaaa,954,2023-02-01,2024-01-09
+955,Octopus,"Other rupture of muscle (nontraumatic), unspecified forearm","€753,19",aaaa,955,2023-04-11,2023-04-16
+956,"Beef - Rouladin, Sliced","Maternal care for breech presentation, fetus 5","€560,15",Gifts & Special Events,956,2024-01-13,2023-10-30
+957,Tarts Assorted,Library as the place of occurrence of the external cause,"€517,46",Attractions,957,2023-11-22,2024-01-09
+958,Hipnotiq Liquor,"Poisoning by glucocort/synth analog, self-harm, init","€351,08",Attractions,958,2024-01-16,2023-10-14
+959,Muffin - Carrot Individual Wrap,"Conjunctival cysts, bilateral","€384,31",Food & Drink,959,2023-07-30,2023-07-02
+960,Energy Drink - Franks Original,"Lead-induced gout, unspecified hand","€459,21",Arts & Entertainment,960,2023-11-15,2023-02-06
+961,Bread - Rosemary Focaccia,"Pathological fracture in neoplastic disease, pelvis, init","€767,89",Gifts & Special Events,961,2023-05-24,2023-10-23
+962,Cup - Paper 10oz 92959,"Oth fracture of upper and lower end of right fibula, sequela","€375,94",Beauty & Fitness,962,2024-02-09,2024-03-11
+963,Gherkin - Sour,"Villonodular synovitis (pigmented), right hip","€865,68",aaaa,963,2023-02-01,2023-02-03
+964,"Lobster - Baby, Boiled",Asphyxia and hypoxemia,"€137,34",Gifts & Special Events,964,2023-06-08,2023-04-19
+965,"Veal - Inside, Choice","Unilateral femoral hernia, with gangrene, recurrent","€667,41",Gifts & Special Events,965,2024-03-31,2023-12-04
+966,Flour - Teff,Neuronal ceroid lipofuscinosis,"€624,00",Food & Drink,966,2024-05-07,2024-06-10
+967,Pork - European Side Bacon,"Unsp fx navicular bone of unsp wrist, subs for fx w malunion","€539,23",Food & Drink,967,2023-09-09,2023-08-19
+968,Cheese - Perron Cheddar,"Disp fx of r radial styloid pro, 7thQ","€36,94",aaaa,968,2024-05-16,2024-03-18
+969,Ice Cream Bar - Drumstick,"Other premature separation of placenta, third trimester","€467,37",aaaa,969,2023-01-18,2023-01-25
+970,Cheese - Le Cheve Noir,"Sltr-haris Type III physl fx low end ulna, r arm, 7thG","€428,49",Attractions,970,2023-06-18,2024-06-06
+971,"Oil - Truffle, White","Nondisp fx of base of unsp metacarpal bone, init for clos fx","€474,95",vvvv,971,2023-02-01,2023-08-31
+972,Chips Potato Reg 43g,"Oth dorsopathies, sacral and sacrococcygeal region","€394,72",vvvv,972,2023-11-30,2023-06-01
+973,Tea - Mint,"Adhes due to fb acc left in body following endo exam, subs","€875,47",Arts & Entertainment,973,2023-02-28,2024-03-11
+974,Bagel - Everything Presliced,"Underdosing of other hormone antagonists, subs encntr","€579,28",Attractions,974,2023-02-04,2023-11-10
+975,"Champagne - Brights, Dry","Placentitis, second trimester, fetus 1","€939,40",Arts & Entertainment,975,2023-07-19,2023-12-19
+976,Mackerel Whole Fresh,"Prepatellar bursitis, left knee","€490,29",Food & Drink,976,2024-03-22,2023-04-07
+977,Wine - Vidal Icewine Magnotta,Other disorders of arteries and arterioles,"€577,20",Arts & Entertainment,977,2024-05-20,2024-06-29
+978,"Bread - Pumpernickle, Rounds","Contracture, right knee","€11,53",vvvv,978,2024-07-01,2024-03-06
+979,Tofu - Soft,"Unsp fx shaft of r rad, 7thF","€33,57",aaaa,979,2023-10-14,2023-12-16
+980,Mushroom - Morel Frozen,"Toxic effect of methanol, intentional self-harm",,Gifts & Special Events,980,2023-06-03,2023-03-24
+981,Ice Cream Bar - Hageen Daz To,"Inj extn musc/fasc/tend r little finger at forarm lv, subs","€329,83",Gifts & Special Events,981,2024-04-08,2024-02-03
+982,Buffalo - Short Rib Fresh,"Unspecified fracture of upper end of right humerus, sequela",,Food & Drink,982,2023-01-12,2024-01-17
+983,"Tart Shells - Savory, 2","Poisoning by oth general anesthetics, self-harm, init","€490,38",Attractions,983,2023-01-30,2023-01-31
+984,Bagel - Ched Chs Presliced,"Nondisp fx of medial malleolus of left tibia, sequela","€179,59",Gifts & Special Events,984,2023-10-30,2023-07-16
+985,Aromat Spice / Seasoning,Unspecified superficial injury of lower back and pelvis,"€355,82",Food & Drink,985,2024-02-15,2024-02-19
+986,Veal - Kidney,Subluxation complex (vertebral) of pelvic region,"€959,03",Food & Drink,986,2024-02-17,2023-04-14
+987,Chocolate - Feathers,Contusion of right wrist,,aaaa,987,2023-06-26,2023-02-03
+988,Ecolab Digiclean Mild Fm,"Post disp fx of sternal end unsp clavicle, 7thP","€149,23",Gifts & Special Events,988,2024-01-13,2023-03-20
+989,Napkin White - Starched,"Corros unsp deg mult site of r shldr/up lmb,ex wrs/hnd, init","€201,88",aaaa,989,2023-01-12,2023-02-15
+990,Soup Campbells Mexicali Tortilla,"Displ seg fx shaft of unsp femr, 7thN",,vvvv,990,2023-05-16,2023-04-24
+991,Cheese - Asiago,"Displ spiral fx shaft of r fibula, 7thC","€55,14",vvvv,991,2023-07-05,2023-01-26
+992,Kiwi Gold Zespri,"Disorders of muscle in diseases classd elswhr, left hand","€564,12",Food & Drink,992,2024-01-24,2023-08-27
+993,Squid Ink,"Nondisp Maisonneuve's fx r leg, subs for clos fx w nonunion","€260,20",Gifts & Special Events,993,2023-01-12,2024-05-10
+994,Bagel - Everything Presliced,"Other specified injury of right renal vein, sequela","€848,34",aaaa,994,2023-11-12,2023-05-06
+995,Nantuket Peach Orange,"Nondisp fx of 4th metatarsal bone, unsp ft, 7thP","€25,60",Beauty & Fitness,995,2024-05-10,2024-06-09
+996,Vinegar - Tarragon,Parachutist accident,"€977,15",Food & Drink,996,2023-10-01,2023-01-28
+997,Carbonated Water - Strawberry,"Lymphocyte-rich Hodgkin lymphoma, spleen","€448,10",Beauty & Fitness,997,2023-03-03,2023-05-11
+998,Glass Clear 7 Oz Xl,"Nondisp fx of medial cuneiform of right foot, init","€20,58",Food & Drink,998,2023-02-26,2023-01-30
+999,Pail For Lid 1537,"Mech compl of implnt elec nstim of brain lead, init","€640,44",Arts & Entertainment,999,2024-05-14,2023-09-19
+1000,"Pepsi, 355 Ml","Nondisp fx of head of r rad, 7thM","€900,36",Attractions,1000,2023-06-01,2023-09-28
